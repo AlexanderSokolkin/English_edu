@@ -66,38 +66,38 @@
 
 ![would rather table](/src/would_rather_table.png)
 
-> Вопрос: Would you rather go to theatre
-> Отрицание: I would rather not go to theatre
+> Вопрос: Would you rather go to theatre  
+> Отрицание: I would rather not go to theatre  
 
-`WHAT` [вот] - вопрос "что"
-`THAT` [thэт] - в середине предложение
+`WHAT` [вот] - вопрос "что"  
+`THAT` [thэт] - в середине предложение  
 
-I know that you drink - я знаю что ты ПЬЕШЬ (как факт)
-I know what you drink - я знаю ЧТО ты пьешь
+I know that you drink - я знаю что ты ПЬЕШЬ (как факт)  
+I know what you drink - я знаю ЧТО ты пьешь  
 
-that можно выкинуть из предложения
+that можно выкинуть из предложения  
 
 ### Vocabulary
 
-`CONVERSATION` - беседа, разговор
-`BRAND NEW` - самый новый, новейший
-`SAVE` - копить, сохранять, спасать
-`SHOP CONSULTANT` - продавец-консультант
-`SURGEON` - [сёджэн] - хирург
-`PATIENT` [пэйшент] - терпеливый, пациент
-`CONFIDENT` - уверенный
-`E.G.` - for example
-`EMPLOYER` - работодатель, наниматель
-`EMPLOYEE` - работник
-`HAVE TO` - придется, должен
-`SIBLING` - брат или сестра
-`RELIABLE` - надежный
+`CONVERSATION` - беседа, разговор  
+`BRAND NEW` - самый новый, новейший  
+`SAVE` - копить, сохранять, спасать  
+`SHOP CONSULTANT` - продавец-консультант  
+`SURGEON` - [сёджэн] - хирург  
+`PATIENT` [пэйшент] - терпеливый, пациент  
+`CONFIDENT` - уверенный  
+`E.G.` - for example  
+`EMPLOYER` - работодатель, наниматель  
+`EMPLOYEE` - работник  
+`HAVE TO` - придется, должен  
+`SIBLING` - брат или сестра  
+`RELIABLE` - надежный  
 
 ### Task
 
-![Hard and soft skills](/src/hard_and_soft_skills.png)
+![Hard and soft skills](/src/hard_and_soft_skills.png)  
 
-![Would rather task](/src/would_rather_task.png)
+![Would rather task](/src/would_rather_task.png)  
 
 ### Solution
 
@@ -118,6 +118,7 @@ Soft skills:
 - Responsibility
 - Empathy
 
+Would rather task:
 
 1. I would rather buy something more expensive but far more reliable.
 2. He would rather listen to something more classical instead of rock.
@@ -138,45 +139,45 @@ Soft skills:
 
 ![So and such table](/src/so_such_table.png)
 
-`TIME / TIMES`
-**have a … time** - конструкция "проводить какое-либо время" - исключение
+`TIME / TIMES`  
+**have a … time** - конструкция "проводить какое-либо время" - исключение  
 
-`MANY / MUCH` - использование в любых предложениях
-`A LOT OF` - с любыми словами, в положительных/утвердительных предложениях 
+`MANY / MUCH` - использование в любых предложениях  
+`A LOT OF` - с любыми словами, в положительных/утвердительных предложениях  
 
 ### Vocabulary
 
-`FLUENTLY` - бегло, свободно
-`I DON'T CARE` - все равно
-`IT DOESN'T MATTER` - не важно
-`ODOR` - запах, вонь
-`FRIEND / FRIENDSHIP` - друг / дружба
-`DISEASE` - болезнь
-`DECIDE / DECISION / DECISIVE` - решать / решение / решительный
-`ABILITY` - способность
-`PRESSURE` - давление
-`FLEXIBILITY` - гибкость
-`NEGOTIATE / NEGOTIATION` - вести переговоры / переговоры
-`PREFER` - предпочитать
-`PLEASE / PLEASED` - угождать, сделать довольным / довольный
-`CONTRIBUTION` - вклад, вложение
-`GENEROUS` - щедрый
-`HADGE` - живая изгородь
-`COUPLE` - пара
-`EXTRAVAGANT` - расточительный, вульгарный
-`WASTE` - тратить, транжирить
-`BY HEART` - наизусть
-`MEAL` - блюдо, прием пищи
-`STINGY` [стинжи] - скупой
-`SHAME` - позор, жаль
-`HELP CRYING` - перестать плакать
-`UNBEARABLE` - невыносимый
-`EXCITING` - захватывающий
-`POLITE` [полайт] - вежливый
-`RUDE` - грубый
-`EXHAUSTING` [икзастинг] - изнурительный
-`PETROL` - бензин
-`INSURANCE` [иншурэнс] - страхование
+`FLUENTLY` - бегло, свободно  
+`I DON'T CARE` - все равно  
+`IT DOESN'T MATTER` - не важно  
+`ODOR` - запах, вонь  
+`FRIEND / FRIENDSHIP` - друг / дружба  
+`DISEASE` - болезнь  
+`DECIDE / DECISION / DECISIVE` - решать / решение / решительный  
+`ABILITY` - способность  
+`PRESSURE` - давление  
+`FLEXIBILITY` - гибкость  
+`NEGOTIATE / NEGOTIATION` - вести переговоры / переговоры  
+`PREFER` - предпочитать  
+`PLEASE / PLEASED` - угождать, сделать довольным / довольный  
+`CONTRIBUTION` - вклад, вложение  
+`GENEROUS` - щедрый  
+`HADGE` - живая изгородь  
+`COUPLE` - пара  
+`EXTRAVAGANT` - расточительный, вульгарный  
+`WASTE` - тратить, транжирить  
+`BY HEART` - наизусть  
+`MEAL` - блюдо, прием пищи  
+`STINGY` [стинжи] - скупой  
+`SHAME` - позор, жаль  
+`HELP CRYING` - перестать плакать  
+`UNBEARABLE` - невыносимый  
+`EXCITING` - захватывающий  
+`POLITE` [полайт] - вежливый  
+`RUDE` - грубый  
+`EXHAUSTING` [икзастинг] - изнурительный  
+`PETROL` - бензин  
+`INSURANCE` [иншурэнс] - страхование  
 
 ### Task
 
