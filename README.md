@@ -8,45 +8,45 @@
 
 ### Vocabulary
 
-`DEPENDS ON` - зависит от чего-либо
-`AVARAGE` [эврич] - среднее
-`DAY OFF` - нерабочий день
-`FARM` - ферма
-`DIFFERENT` - разный
-`CABBAGE` - капуста
-`SPOIL` - портить
-`SWAMP` - болото
-`CANDIES / SWEETS` - сладости
-`BAKERY` - выпечка
-`DAIRY PRODUCTS` - молочная продукция
-`GLAD` - рад, радостный
-`SATISFY / SATISFACTION / SATISFYING / SATISFIED` - удовлетворять / удовлетворение / удовлетворительный / удовлетворенный
-`FIRSTLY / SECONDLY` - во-первых, во-вторых
-`USUAL / USUALLY` - обычный / обычно
-`RESPONSE / RESPONSIBLE / RESPONSIBILITY / RESPONSOBILITIES` - ответ / ответственный / ответственность / обязаности
-`GUEST` [гэст] - гость
-`WEDDING` - свадьба
-`SHOULD` - следует, должен, подразумевается
-`MUST` - должент (жесткое требование)
-`USED TO` - привыкнуть
-`BREED` - порода
-`QUALITY` [кволити] - качество
-`SAFETY` - безопасность
-`MERRY / CHEERFUL` - радостный, веселый
-`LANDFILL` - свалка
-`TREADMILL` - беговая дорожка
-`SILLY` - глупый, глупо
-`PROSECUTE` - преследовать в судебном порядке
-`UNLESS` - если не, за исключением
-`VALUABLE` - ценный, имеющий значение
-`BROAD` - широкий
-`PURPOSELY` - намерено, специально
-`MIGHT` - вероятно, способный, мочь, возможно
+`DEPENDS ON` - зависит от чего-либо  
+`AVARAGE` [эврич] - среднее  
+`DAY OFF` - нерабочий день  
+`FARM` - ферма  
+`DIFFERENT` - разный  
+`CABBAGE` - капуста  
+`SPOIL` - портить  
+`SWAMP` - болото  
+`CANDIES / SWEETS` - сладости  
+`BAKERY` - выпечка  
+`DAIRY PRODUCTS` - молочная продукция  
+`GLAD` - рад, радостный  
+`SATISFY / SATISFACTION / SATISFYING / SATISFIED` - удовлетворять / удовлетворение / удовлетворительный / удовлетворенный  
+`FIRSTLY / SECONDLY` - во-первых, во-вторых  
+`USUAL / USUALLY` - обычный / обычно  
+`RESPONSE / RESPONSIBLE / RESPONSIBILITY / RESPONSOBILITIES` - ответ / ответственный / ответственность / обязаности  
+`GUEST` [гэст] - гость  
+`WEDDING` - свадьба  
+`SHOULD` - следует, должен, подразумевается  
+`MUST` - должент (жесткое требование)  
+`USED TO` - привыкнуть  
+`BREED` - порода  
+`QUALITY` [кволити] - качество  
+`SAFETY` - безопасность  
+`MERRY / CHEERFUL` - радостный, веселый  
+`LANDFILL` - свалка  
+`TREADMILL` - беговая дорожка  
+`SILLY` - глупый, глупо  
+`PROSECUTE` - преследовать в судебном порядке  
+`UNLESS` - если не, за исключением  
+`VALUABLE` - ценный, имеющий значение  
+`BROAD` - широкий  
+`PURPOSELY` - намерено, специально  
+`MIGHT` - вероятно, способный, мочь, возможно  
 
 ### Sources
 
-- (Dumpster diver)[https://youtu.be/xBfU_SlssDc]
-- (People worker)[https://youtu.be/Znx_oZWj1MQ]
+- [Dumpster diver](https://youtu.be/xBfU_SlssDc)
+- [People worker](https://youtu.be/Znx_oZWj1MQ)
 
 ### Task
 
