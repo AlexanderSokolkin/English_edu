@@ -240,7 +240,7 @@ Would rather task:
 
 ### Solution
 
-- `AWECOME`     - потрясающий  
+- `AWESOME`     - потрясающий  
 - `BORING`      - скучный  
 - `BOSSY`       - властный  
 - `CLEVER`      - умный, смекалистый, ловкий  
@@ -257,7 +257,7 @@ Would rather task:
 - `HELPFUL`     - полезный  
 - `INTELLIGENT` - умный  
 - `INTERESTING` - интересный  
-- `JOUFUL`      - радостный  
+- `JOYFUL`      - радостный  
 - `KIND`        - добрый  
 - `LAZY`        - ленивый  
 - `LOVELY`      - прекрасный  
