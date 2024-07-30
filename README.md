@@ -3,45 +3,46 @@
 - [hw1 - Extraordinary jobs](#extraordinary-jobs)
 - [hw2 - Would rather](#would-rather)
 - [hw3 - So and such](#so-and-such)
+- [hw4 - Intelligence](#intelligence)
 
 ## Extraordinary jobs
 
 ### Vocabulary
 
-`DEPENDS ON` - зависит от чего-либо  
-`AVARAGE` [эврич] - среднее  
-`DAY OFF` - нерабочий день  
-`FARM` - ферма  
-`DIFFERENT` - разный  
-`CABBAGE` - капуста  
-`SPOIL` - портить  
-`SWAMP` - болото  
-`CANDIES / SWEETS` - сладости  
-`BAKERY` - выпечка  
+`DEPENDS ON`            - зависит от чего-либо  
+`AVARAGE`   [эврич]     - среднее  
+`DAY OFF`               - нерабочий день  
+`FARM`                  - ферма  
+`DIFFERENT`             - разный  
+`CABBAGE`               - капуста  
+`SPOIL`                 - портить  
+`SWAMP`                 - болото  
+`CANDIES / SWEETS`      - сладости  
+`BAKERY`                - выпечка  
 `DAIRY PRODUCTS` - молочная продукция  
-`GLAD` - рад, радостный  
+`GLAD`                  - рад, радостный  
+`FIRSTLY / SECONDLY`    - во-первых, во-вторых  
+`USUAL / USUALLY`       - обычный / обычно  
+`GUEST`     [гэст]      - гость  
+`WEDDING`               - свадьба  
+`SHOULD`                - следует, должен, подразумевается  
+`MUST`                  - должент (жесткое требование)  
+`USED TO`               - привыкнуть  
+`BREED`                 - порода  
+`QUALITY`   [кволити]   - качество  
+`SAFETY`                - безопасность  
+`MERRY / CHEERFUL`      - радостный, веселый  
+`LANDFILL`              - свалка  
+`TREADMILL`             - беговая дорожка  
+`SILLY`                 - глупый, глупо  
+`PROSECUTE`             - преследовать в судебном порядке  
+`UNLESS`                - если не, за исключением  
+`VALUABLE`              - ценный, имеющий значение  
+`BROAD`                 - широкий  
+`PURPOSELY`             - намерено, специально  
+`MIGHT`                 - вероятно, способный, мочь, возможно  
 `SATISFY / SATISFACTION / SATISFYING / SATISFIED` - удовлетворять / удовлетворение / удовлетворительный / удовлетворенный  
-`FIRSTLY / SECONDLY` - во-первых, во-вторых  
-`USUAL / USUALLY` - обычный / обычно  
 `RESPONSE / RESPONSIBLE / RESPONSIBILITY / RESPONSOBILITIES` - ответ / ответственный / ответственность / обязаности  
-`GUEST` [гэст] - гость  
-`WEDDING` - свадьба  
-`SHOULD` - следует, должен, подразумевается  
-`MUST` - должент (жесткое требование)  
-`USED TO` - привыкнуть  
-`BREED` - порода  
-`QUALITY` [кволити] - качество  
-`SAFETY` - безопасность  
-`MERRY / CHEERFUL` - радостный, веселый  
-`LANDFILL` - свалка  
-`TREADMILL` - беговая дорожка  
-`SILLY` - глупый, глупо  
-`PROSECUTE` - преследовать в судебном порядке  
-`UNLESS` - если не, за исключением  
-`VALUABLE` - ценный, имеющий значение  
-`BROAD` - широкий  
-`PURPOSELY` - намерено, специально  
-`MIGHT` - вероятно, способный, мочь, возможно  
 
 ### Sources
 
@@ -79,19 +80,19 @@ that можно выкинуть из предложения
 
 ### Vocabulary
 
-`CONVERSATION` - беседа, разговор  
-`BRAND NEW` - самый новый, новейший  
-`SAVE` - копить, сохранять, спасать  
-`SHOP CONSULTANT` - продавец-консультант  
-`SURGEON` - [сёджэн] - хирург  
-`PATIENT` [пэйшент] - терпеливый, пациент  
-`CONFIDENT` - уверенный  
-`E.G.` - for example  
-`EMPLOYER` - работодатель, наниматель  
-`EMPLOYEE` - работник  
-`HAVE TO` - придется, должен  
-`SIBLING` - брат или сестра  
-`RELIABLE` - надежный  
+`SURGEON`   [сёджэн]    - хирург  
+`PATIENT`   [пэйшент]   - терпеливый, пациент  
+`BRAND NEW`             - самый новый, новейший  
+`SAVE`                  - копить, сохранять, спасать  
+`SHOP CONSULTANT`       - продавец-консультант  
+`CONVERSATION`          - беседа, разговор  
+`CONFIDENT`             - уверенный  
+`E.G.`                  - for example  
+`EMPLOYER`              - работодатель, наниматель  
+`EMPLOYEE`              - работник  
+`HAVE TO`               - придется, должен  
+`SIBLING`               - брат или сестра  
+`RELIABLE`              - надежный  
 
 ### Task
 
@@ -147,37 +148,37 @@ Would rather task:
 
 ### Vocabulary
 
-`FLUENTLY` - бегло, свободно  
-`I DON'T CARE` - все равно  
-`IT DOESN'T MATTER` - не важно  
-`ODOR` - запах, вонь  
-`FRIEND / FRIENDSHIP` - друг / дружба  
-`DISEASE` - болезнь  
-`DECIDE / DECISION / DECISIVE` - решать / решение / решительный  
-`ABILITY` - способность  
-`PRESSURE` - давление  
-`FLEXIBILITY` - гибкость  
-`NEGOTIATE / NEGOTIATION` - вести переговоры / переговоры  
-`PREFER` - предпочитать  
-`PLEASE / PLEASED` - угождать, сделать довольным / довольный  
-`CONTRIBUTION` - вклад, вложение  
-`GENEROUS` - щедрый  
-`HADGE` - живая изгородь  
-`COUPLE` - пара  
-`EXTRAVAGANT` - расточительный, вульгарный  
-`WASTE` - тратить, транжирить  
-`BY HEART` - наизусть  
-`MEAL` - блюдо, прием пищи  
-`STINGY` [стинжи] - скупой  
-`SHAME` - позор, жаль  
-`HELP CRYING` - перестать плакать  
-`UNBEARABLE` - невыносимый  
-`EXCITING` - захватывающий  
-`POLITE` [полайт] - вежливый  
-`RUDE` - грубый  
-`EXHAUSTING` [икзастинг] - изнурительный  
-`PETROL` - бензин  
-`INSURANCE` [иншурэнс] - страхование  
+`FLUENTLY`                      - бегло, свободно  
+`I DON'T CARE`                  - все равно  
+`IT DOESN'T MATTER`             - не важно  
+`ODOR`                          - запах, вонь  
+`FRIEND / FRIENDSHIP`           - друг / дружба  
+`DISEASE`                       - болезнь  
+`DECIDE / DECISION / DECISIVE`  - решать / решение / решительный  
+`ABILITY`                       - способность  
+`PRESSURE`                      - давление  
+`FLEXIBILITY`                   - гибкость  
+`NEGOTIATE / NEGOTIATION`       - вести переговоры / переговоры  
+`PREFER`                        - предпочитать  
+`PLEASE / PLEASED`              - угождать, сделать довольным / довольный  
+`CONTRIBUTION`                  - вклад, вложение  
+`GENEROUS`                      - щедрый  
+`HADGE`                         - живая изгородь  
+`COUPLE`                        - пара  
+`EXTRAVAGANT`                   - расточительный, вульгарный  
+`WASTE`                         - тратить, транжирить  
+`BY HEART`                      - наизусть  
+`MEAL`                          - блюдо, прием пищи  
+`STINGY`        [стинжи]        - скупой  
+`SHAME`                         - позор, жаль  
+`CAN'T HELP глагол + ING`       - не могу перестать что-то делать
+`UNBEARABLE`                    - невыносимый  
+`EXCITING`                      - захватывающий  
+`POLITE`        [полайт]        - вежливый  
+`RUDE`                          - грубый  
+`EXHAUSTING`    [икзастинг]     - изнурительный  
+`PETROL`                        - бензин  
+`INSURANCE`     [иншурэнс]      - страхование  
 
 ### Task
 
@@ -204,5 +205,109 @@ Would rather task:
 17. There were so many people at the concert that we couldn't get seats.
 18. They make such good goats' cheese in Castilla La Mancha.
 19. She talks so much it's exhausting.
-20. I met so many nice people in Had Yai in southern Thailand.
+20. I met so many nice people in Had Yai in southern Thailand.  
+
+
+## Intelligence
+
+### Theory
+
+![Intelligence picture](/src/intelligence_pictrure.png)
+
+### Vocabulary
+
+- `LOOK FORWARD TO` - ждать с нетерпением  
+- `SNORE`           - храп  
+- `FAN`             - вентилятор  
+- `EXPRESS`         - выражать  
+- `DISCERN` [дизён] - различать, распозновать  
+- `SENS`            - чувствовать  
+- `QUANTIFY`        - определить количесвто, измерять  
+- `RECENT`          - недавний  
+- `REALISE`         - понимать  
+- `FAMILIAR`        - знакомый  
+- `NEIGHBOUR` [нейбэр]          - сосед  
+- `IQ - INTELLIGENCE QUOTIENT`  - коэффициент интелекта  
+- `CONVENIENT` [конвиниетн]     - удобный  
+- `INTELLIGENT / SMART / BRAINY / CLEVER` - умный  
+- `PSYCHE / PSYCHOLOGY / PSYCHOLOGICAL / PSYCHOLOGIST / PSYCHO` [сайки] - психика / психология / психологический / психолог / псих  
+
+### Task
+
+![Traits](/src/traits.png)
+
+![So and such task 2](/src/so_such_task_2.png)
+
+### Solution
+
+- `AWECOME`     - потрясающий  
+- `BORING`      - скучный  
+- `BOSSY`       - властный  
+- `CLEVER`      - умный, смекалистый, ловкий  
+- `CONFIDENT`   - уверенный  
+- `CREATIVE`    - творческий, креативный  
+- `DIFFERENT`   - различный, отличный  
+- `DIFFICULT`   - трудный  
+- `ENERGETIC`   - энергичный  
+- `EXCITING`    - захватывающий, увлекательный  
+- `FANTASTIC`   - фантастический  
+- `FRIENDLY`    - дружелюбный  
+- `GENEROUS`    - щедрый  
+- `GREAT`       - отличный, великолепный, великий  
+- `HELPFUL`     - полезный  
+- `INTELLIGENT` - умный  
+- `INTERESTING` - интересный  
+- `JOUFUL`      - радостный  
+- `KIND`        - добрый  
+- `LAZY`        - ленивый  
+- `LOVELY`      - прекрасный  
+- `LOYAL`       - верный, лояльный  
+- `MEAN`        - подлый  
+- `MOODY`       - угрюмый, унылый  
+- `MOTIVATED`   - мотивированный  
+- `NOISY`       - шумный  
+- `PATIENT`     - терпеливый  
+- `POLITE`      - вежливый  
+- `PRETTY`      - красивый, симпатичный  
+- `PUNCTUAL`    - пунктуальный  
+- `QUIET`       - тихий  
+- `RELAXED`     - расслабленный  
+- `RESPONSIBLE` - ответственный  
+- `RUDE`        - грубый  
+- `SHY`         - застенчивый, скромный  
+- `TALKATIVE`   - разговорчивый  
+- `TIDY`        - аккуратный, чистый  
+- `TOLERANT`    - терпимый, толерантный  
+- `UNHAPPY`     - несчастный  
+- `UNTIDY`      - неопрятный, неаккуратный  
+- `VARIOUS`     - разный, разносторонний  
+- `WONDERFUL`   - прекрасный, чудесный  
+- `WEIRD`       - странный, чудной  
+- `YOUNG`       - молодой  
+
+Sentences:
+
+1. I bought such a ***interesting*** book with best english legends.
+2. Lessons `on` cultural studies was really ***boring*** and ***unhelpful***.
+3. Be ***patient*** when make hard task and successes will be.
+4. Let's go to walk on this ***wonderful*** day.
+5. I'm used to be ***shy*** and ***untalkative*** with unfamiliar people.
+6. The books on the your shelf are so ***exciting***.
+7. ***Young*** cats are so ***playful***.
+8. ***Polite*** people usually work in airports.
+9. Loudy rock music is so ***energetic***.
+10. One task can be solved with ***different*** ways.
+
+So and such task:
+
+1. It was a great holiday. We had ***such a*** good time.
+2. Everything is ***so*** expensive these days, isn't it?
+3. He always looks good. He wears ***such*** nice clothes.
+4. I couldn't believe the news. It was ***such a*** shock.
+5. What a nice garden! These are ***such*** lovely flowers.
+6. The party was great. It was ***so*** shame you couldn't come.
+7. I was glad to see that he looked ***so*** well after his recent illness.
+8. I have to go. I didn't realise it was ***so*** late.
+9. Why does it always take you ***such a*** long time to get ready.
+10. Everything went wrong. We had ***such a*** bad luck.
 
