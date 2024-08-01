@@ -221,7 +221,7 @@ Would rather task:
 - `FAN`             - вентилятор  
 - `EXPRESS`         - выражать  
 - `DISCERN` [дизён] - различать, распозновать  
-- `SENS`            - чувствовать  
+- `SENSE`            - чувствовать  
 - `QUANTIFY`        - определить количесвто, измерять  
 - `RECENT`          - недавний  
 - `REALISE`         - понимать  
@@ -287,8 +287,8 @@ Would rather task:
 
 Sentences:
 
-1. I bought such a ***interesting*** book with best english legends.
-2. Lessons `on` cultural studies was really ***boring*** and ***unhelpful***.
+1. I bought such an ***interesting*** book with best english legends.
+2. Lessons `on` cultural studies were really ***boring*** and ***unhelpful***.
 3. Be ***patient*** when make hard task and successes will be.
 4. Let's go to walk on this ***wonderful*** day.
 5. I'm used to be ***shy*** and ***untalkative*** with unfamiliar people.
@@ -296,7 +296,7 @@ Sentences:
 7. ***Young*** cats are so ***playful***.
 8. ***Polite*** people usually work in airports.
 9. Loudy rock music is so ***energetic***.
-10. One task can be solved with ***different*** ways.
+10. One task can be solved in ***different*** ways.
 
 So and such task:
 
@@ -305,7 +305,7 @@ So and such task:
 3. He always looks good. He wears ***such*** nice clothes.
 4. I couldn't believe the news. It was ***such a*** shock.
 5. What a nice garden! These are ***such*** lovely flowers.
-6. The party was great. It was ***so*** shame you couldn't come.
+6. The party was great. It was ***such a*** shame you couldn't come.
 7. I was glad to see that he looked ***so*** well after his recent illness.
 8. I have to go. I didn't realise it was ***so*** late.
 9. Why does it always take you ***such a*** long time to get ready.
