@@ -4,6 +4,7 @@
 - [hw2 - Would rather](#would-rather)
 - [hw3 - So and such](#so-and-such)
 - [hw4 - Intelligence](#intelligence)
+- [hw5 - A and AN](#a-and-an)
 
 ## Extraordinary jobs
 
@@ -221,7 +222,7 @@ Would rather task:
 - `FAN`             - вентилятор  
 - `EXPRESS`         - выражать  
 - `DISCERN` [дизён] - различать, распозновать  
-- `SENSE`            - чувствовать  
+- `SENSE`           - чувствовать  
 - `QUANTIFY`        - определить количесвто, измерять  
 - `RECENT`          - недавний  
 - `REALISE`         - понимать  
@@ -311,3 +312,76 @@ So and such task:
 9. Why does it always take you ***such a*** long time to get ready.
 10. Everything went wrong. We had ***such a*** bad luck.
 
+
+## A and AN
+
+### Theory
+
+Приставки для отрицания:  
+
+- `-IM` - отрицательная приставка, ставится **если слово начинается с M или P**  
+    - polite - *impolite*  
+    - possible - *impossible*  
+    - mature - *immature*  
+- `-IR` - отрицательная приставка, ставится **если слово начинается с R**  
+    - regular - *irregular*  
+    - responsible - *irresponsible*  
+    - rational - *irrational*  
+
+Артикль `a / an` ставится перед **исчисляемым существительным в единственном числе**.  
+
+### Vocabulary
+
+- `SHOES`   [шууз]      - туфли  
+- `BE HAPPY WITH`       - быть довольным чем-то  
+- `PUBLIC`              - государственный, общественный, публичный  
+- `UMBRELLA`            - зонт  
+- `KEEP`                - хранить, продолжать  
+- `ANSWER`  [ансэр]     - ответ  
+- `AGAIN`   [эгэн]      - снова  
+- `DREAM`               - мечта, сон  
+- `ETC`     [итсэтра]   - и т.д.  
+- `HARD-WORKING`        - трудолюбивый, усердный  
+- `MATUR`   [матьюр]    - матерый, зрелый  
+- `REGULAR` [рэгьюлар]  - правильный, подчиняющийся правилам, регулярный  
+- `RATIONAL`            - рациональный  
+- `IN PERSON`           - лично, в живую  
+- `EYE-TO-EYE`          - с глазу на глаз  
+- `CURRENCY`            - валюта  
+- `QUITE`               - довольно таки, немного  
+- `CUSTOMER`            - покупатель  
+- `PREVENT`             - мешать, препятствовать  
+- `DECEIVE`  [дэзив]    - обманывать  
+- `GUESS`               - думать, догадываться  
+- `ACCEPT / ACCEPTABLE` - принимать / приемлемый  
+- `CONSEQUENCE` [кОнсиквЭнс] - последствие  
+
+### Task
+
+![Describe task](/src/describe_task.png)
+
+### Solution
+
+1. I have a clever but lazy friend who have really good knowleges of history.  
+2. My mother is hard-working because she always work in garden.  
+3. The man in product shop was weird. He liked to spy on customer.  
+4. The up neighbour will be noisy. He present his birthday.  
+5. Will Shith is great actor. He always makes me cry when i see dramas with him.  
+
+
+- A topic which makes me feel *clever*.  
+    - I always feel myself clever when saying about programming languages and math.  
+- A topic which makes me feel *stupid*.  
+    - New popular series and english make me feel stupid.  
+- People who *i'm always polite to*.
+    - I'm always polite to my friend and co-workers.
+- People who i can be rude to.
+    - I can be rude with people who spam me on phone.
+
+
+- *shy*         - It's a good trait when you are in public places, but prevent when somebody try to decive you.  
+- *friendly*    - I guess that it always necessary to be friendly except situations when somebody try to make you aggressive.  
+- *quiet*       - You must be quiet in a hostel, but not when speak on public.  
+- *kind*        - You should always be kind only if not playing tabletop strategy games.  
+- *lazy*        - It is nice to have an old and lazy cat on your knees in front of fireplace. However it's unacceptable for yourself.  
+- *generous*    - When you have generous boss your work will be easy. Generous parents give you more products in consequence free space in fridge will be lost.  
