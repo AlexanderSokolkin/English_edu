@@ -362,25 +362,25 @@ So and such task:
 
 ### Solution
 
-1. I have a clever but lazy friend who have really good knowleges of history.  
-2. My mother is hard-working because she always work in garden.  
-3. The man in product shop was weird. He liked to spy on customer.  
-4. The up neighbour will be noisy. He present his birthday.  
-5. Will Shith is great actor. He always makes me cry when i see dramas with him.  
+1. I have a clever but lazy friend who has really good knowledges of history.  
+2. My mother is hard-working because she always work in the garden.  
+3. The man in the product shop was weird. He liked to spy on customers.  
+4. The up neighbour will be noisy. He is celebrating his birthday.  
+5. Will Shith is a great actor. He always makes me cry when i watch dramas with him.  
 
 
 - A topic which makes me feel *clever*.  
-    - I always feel myself clever when saying about programming languages and math.  
+    - I always feel myself clever when talking about programming languages and math.  
 - A topic which makes me feel *stupid*.  
     - New popular series and english make me feel stupid.  
 - People who *i'm always polite to*.
-    - I'm always polite to my friend and co-workers.
+    - I'm always polite to my friends and co-workers.
 - People who i can be rude to.
-    - I can be rude with people who spam me on phone.
+    - I can be rude with people who spam me on the phone.
 
 
-- *shy*         - It's a good trait when you are in public places, but prevent when somebody try to decive you.  
-- *friendly*    - I guess that it always necessary to be friendly except situations when somebody try to make you aggressive.  
+- *shy*         - It's a good trait when you are in public places, but prevent when somebody try to deceive you.  
+- *friendly*    - I guess that it's always necessary to be friendly except situations when somebody try to make you aggressive.  
 - *quiet*       - You must be quiet in a hostel, but not when speak on public.  
 - *kind*        - You should always be kind only if not playing tabletop strategy games.  
 - *lazy*        - It is nice to have an old and lazy cat on your knees in front of fireplace. However it's unacceptable for yourself.  
