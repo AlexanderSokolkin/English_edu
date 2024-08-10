@@ -5,6 +5,7 @@
 - [hw3 - So and such](#so-and-such)
 - [hw4 - Intelligence](#intelligence)
 - [hw5 - A and AN](#a-and-an)
+- [hw6 - Our brains](#our-brains)
 
 ## Extraordinary jobs
 
@@ -363,14 +364,14 @@ So and such task:
 ### Solution
 
 1. I have a clever but lazy friend who has really good knowledges of history.  
-2. My mother is hard-working because she always work in the garden.  
+2. My mother is hard-working because she always works in the garden.  
 3. The man in the product shop was weird. He liked to spy on customers.  
-4. The up neighbour will be noisy. He is celebrating his birthday.  
+4. The upstairs neighbour will be noisy. He is celebrating his birthday.  
 5. Will Shith is a great actor. He always makes me cry when i watch dramas with him.  
 
 
 - A topic which makes me feel *clever*.  
-    - I always feel myself clever when talking about programming languages and math.  
+    - I always feel clever when talking about programming languages and math.  
 - A topic which makes me feel *stupid*.  
     - New popular series and english make me feel stupid.  
 - People who *i'm always polite to*.
@@ -385,3 +386,84 @@ So and such task:
 - *kind*        - You should always be kind only if not playing tabletop strategy games.  
 - *lazy*        - It is nice to have an old and lazy cat on your knees in front of fireplace. However it's unacceptable for yourself.  
 - *generous*    - When you have generous boss your work will be easy. Generous parents give you more products in consequence free space in fridge will be lost.  
+
+## Our brains
+
+### Theory
+
+`WHO / WHOSE / WHOM` - кто, который / чей / кем, кому, кого и т.д.  
+`upstairs / downstairs` - вверх / вниз по лестнице, сверху / снизу  
+
+Части речи:
+- `NOUN` - существительное  
+- `ADJECTIVE` - прилагательное  
+- `VERB` - глагол  
+- `ADVERB` - наречие  
+
+`be good(bad) at + [NOUN | verb + ING]` - быть хорошим(плохим) в чем-то  
+`what kind of ...` - какой  
+`what time is it` - сколько времени  
+
+### Vocabulary
+
+- `STAIRS` - лестница (в доме)  
+- `LADDER` [lædə] - лестница (на стройке)  
+- `CAPITAL` - столица, капитал, заглавный  
+- `OPPOSITE` - противоположный  
+- `LIE` - ложь, врать, лежать  
+- `NAUGHTY` [ноти] - непослышный, капризный  
+- `SWEET` - милый  
+- `BRAVE` - храбрый  
+- `NERVE` [ньорв] - нерв  
+- `ORDER` - порядок, приказ, заказ  
+- `QUIZ` - викторина, тест  
+- `HOWEVER / NEVERTHELESS` - однако / тем не менее  
+- `GENERAL` - главный  
+- `EQUATION` [иквижн] - уравнение  
+- `PERSUADE` [пёсвэйд] - убеждать, уговаривать  
+- `PUNISHMENT` - наказание  
+- `FIND OUT` - выяснить  
+- `INVITATION` [инватэйшн] - приглашение  
+- `APPEAR` [эпиэ] - появиться  
+
+### Task
+
+- Прочитать текст, ответить на вопросы (задание 3)  
+- Тест на 10 вопросов после текста  
+- Ответ о том, кто я: left-brained or right-brained student  
+- Задание 4 на второй картинке  
+
+
+![brains text](/src/brains_text_1.png)
+
+![brains questions](/src/brains_text_2.png)
+
+### Solution
+
+Тестик после текста:  
+
+1 - A  
+2 - B  
+3 - A  
+4 - A  
+5 - A  
+6 - A  
+7 - A  
+8 - A  
+9 - A  
+10 - A  
+
+Задание 3
+
+1 - A  
+2 - B  
+3 - C  
+4 - A  
+5 - B  
+
+Задание 4
+
+1 - B  
+2 - A  
+3 - D  
+4 - C  
