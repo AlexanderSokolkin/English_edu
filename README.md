@@ -6,6 +6,7 @@
 - [hw4 - Intelligence](#intelligence)
 - [hw5 - A and AN](#a-and-an)
 - [hw6 - Our brains](#our-brains)
+- [hw7 - Pronunciation](#pronunciation)
 
 ## Extraordinary jobs
 
@@ -467,3 +468,75 @@ So and such task:
 2 - A  
 3 - D  
 4 - C  
+
+
+## Pronunciation
+
+### Theory
+
+`AU` - в начале слова читается как "О"  
+> `august`, `autumn`, `Austria`, `Australia`, `authentic`, `autism`, `audio`  
+
+`TURE` - в конце слова читается как "ЧЕР"  
+> `picture`, `capture`, `adventure`, `torture`, `literature`, `architecture`, `mixture`, `furniture`, `feature`, `future`, `nature`  
+
+`TION` - читается как "ШН"  
+> `composition`, `revolution`, `nation`, `ration`, `rational`, `fiction`, `reaction`, `action`  
+
+`SION` - "ШН" если перед стоит согласная / "ЖН" если перед стоит гласная  
+> `vision`, `exclusion`, `passion`, `profession`, `fashion`, `division`
+
+
+### Vocabulary
+
+`CONGRATULATE / CONGRATULATION` - поздравлять / поздравление (поздравляю тебя!)  
+`ACCURATE` - точный  
+`SKIP` - перепрыгнуть, пропустить  
+`POOR` - бедный (небогатый)  
+`AMAZING` - удивительный  
+`ENOUGH` - достаточно, хватит  
+`AUTUMN` - осень  
+`SPRING` - весна  
+`TORTURE` - пытка  
+`PASSION` - страсть  
+`VISION` - видение  
+`EXCLUDE / EXCLUSION` - исключить / исключение  
+`CAPTURE` - захватить, поймать  
+`FEATURE` - особенность  
+`COMPETITION` - соревнование  
+`BOREDOM` - скука  
+
+
+### Task
+
+- Прочитать текст, ответить на вопросы  
+
+![Jobs we'd like to do](/src/jobs_we_would_like_to_do.png)
+
+- Сделать однокоренные прилагательные из существительных   
+
+![Noun to Adjective](/src/noun_adjective.png)
+
+
+### Solution
+
+Text:
+
+1 - B  
+2 - C  
+3 - C  
+4 - B  
+5 - A  
+6 - A  
+7 - B  
+
+Word Formation:
+
+1: art - artistic  
+2: boredom - boring -boredomly  
+3: care - careful  
+4: creation - creativity  
+5: fun - funny  
+6: interest - interesting - ???  
+7: logic - logical  
+8: organise - organisatly  
