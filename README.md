@@ -7,6 +7,7 @@
 - [hw5 - A and AN](#a-and-an)
 - [hw6 - Our brains](#our-brains)
 - [hw7 - Pronunciation](#pronunciation)
+- [hw8 - Adjectives -ing, -ed](#adjectives--ing--ed)
 
 ## Extraordinary jobs
 
@@ -533,10 +534,76 @@ Text:
 Word Formation:
 
 1: art - artistic  
-2: boredom - boring -boredomly  
+2: boredom - boring - bored  
 3: care - careful  
-4: creation - creativity  
+4: creation - creative  
 5: fun - funny  
-6: interest - interesting - ???  
+6: interest - interesting - interested (in)  
 7: logic - logical  
-8: organise - organisatly  
+8: organise - organised  
+
+
+## Adjectives -ing, -ed
+
+### Theory
+
+`-ING` обозначает качество, характеристику (часто вызывает эмоции, чувства) - чаще всего для предметов  
+`-ED` обозначает чувство, состояние, эмоцию - чаще всего для людей  
+
+> `Something …ING makes me feel …ED`
+
+- scaring (scary) - scared  
+- interesting - interested  
+- amazing - amazed  
+- amusing - amused  
+- tiring - tired  
+- surprising - surprised  
+- annoying - annoyed  
+
+
+Вопросительные слова
+`what`, `which`, `where`, `when`, `who`, `how`, `why`, `how many` / `how much`, `how long`, `how far` (насколько далеко), `how difficult`, `whom` (кому, кем, кого, ком), `whose` (чей)  
+
+`WHAT` - какой, что за  / `WHICH` - который из, какой из  
+
+`which of the …` - какая из  
+
+### Vocabulary
+
+`SO` - итак, поэтому  
+`AMUSE` - радостный, веселый  
+`ANNOY` - раздражать, бесить  
+`FLOUR` - мука  
+`DISAPPOINT` - разочаровывать  
+`CONFUSE` - путать, запутывать  
+
+### Task
+
+![Adjectives ing ed task](/src/adjectives_ing_ed.png)
+
+### Solution
+
+Task 1  
+
+1 - When  
+2 - Where  
+3 - Who  
+4 - How often  
+5 - Why  
+6 - What  
+7 - How  
+8 - Whose  
+
+
+Task 2  
+
+1 - Who  
+2 - Where  
+3 - What  
+4 - What  
+5 - When  
+6 - What  
+7 - Where  
+8 - Who  
+9 - Where  
+10 - What  
