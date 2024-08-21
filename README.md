@@ -8,6 +8,7 @@
 - [hw6 - Our brains](#our-brains)
 - [hw7 - Pronunciation](#pronunciation)
 - [hw8 - Adjectives -ing, -ed](#adjectives--ing--ed)
+- [hw9 - SURE, CH, WR, KN](#sure-ch-wr-kn)
 
 ## Extraordinary jobs
 
@@ -571,7 +572,7 @@ Word Formation:
 ### Vocabulary
 
 `SO` - итак, поэтому  
-`AMUSE` - радостный, веселый  
+`AMUSING` - радостный, веселый  
 `ANNOY` - раздражать, бесить  
 `FLOUR` - мука  
 `DISAPPOINT` - разочаровывать  
@@ -607,3 +608,91 @@ Task 2
 8 - Who  
 9 - Where  
 10 - What  
+
+
+## SURE, CH, WR, KN
+
+### Theory
+
+`GET + A` - стать каким-то  
+`GET HOME` - попасть домой  
+
+`SURE` в конце или середине слова произносится как `ЖЕР`  
+
+`CH` произноситься:
+
+1. `Ч` - `chair`, `chest`, `chess`, `checkers`, `lunch`, `bench`, `couch`, `coach`, `chick`  
+2. `Ш` (французские слова) - `chandelier`, `chef`, `chic`, `machine`, `champagne`, `moustache`  
+3. `К` (греческие слова; где по русски Х) - `mechanics`, `mechanism`, `HI-TECH`, `technology`, `monarch`, `monarchy`, `architecture`, `architect`, `psyche`, `monochrome`, `Christ`, `orchestra`, `scheme` [ским], `school`, `schedule`  
+
+`WR` в начале слова - буква W не читается (`wrong`, `write`, `wrist`, `wrath`, `wrestle`)  
+`KN` в начале слова - K не читается (`know`, `knight`, `knowledge`, `knee`, `knife`, `knock`)  
+
+
+### Vocabulary
+
+`WAKE UP` - просыпаться  
+`GET UP` - вставать  
+`INSECT` - насекомое (дизинсекция)  
+`EMBARRAS` - смущать  
+`FRIGHTEN` - страшный, пугающий  
+`TRIP` - короткое путеществие  
+`JOURNEY` - длительное путешествие  
+`MEASURE` - измерять  
+`TREASURE` - сокровище  
+`LEISURE` - досуг  
+`PLEASURE` - удовольствие  
+`WRIST` - запястие  
+`WRESTLE` - борьба  
+`KNEE` - коленка  
+`KNOCK` - стучать  
+`COUCH` [кауч] - диван  
+`COACH` [коуч] - тренер, наставник  
+`SCEDULE` [скедъюл] - расписание, график  
+`YACHT` [йот] - яхта  
+
+
+### Task
+
+![Present Continuous](/src/present_continuous.png)
+
+![Present Continuous 2](/src/present_continuous_2.png)
+
+
+### Solution
+
+Task 1
+
+1 - She's going home now  
+2 - I'm reading a great book  
+3 - She isn't washing her hair  
+4 - The cat is chasing mice  
+5 - Is she crying?  
+6 - He isn't studying Latin  
+7 - Are we driving to London?  
+8 - Are they watching TV?  
+9 - Where's she going now?  
+10 - I'm not leaving now  
+11- You aren't running  
+12 - Why is he leaving?  
+13 - How am I traveling?  
+14 - It's not rainig  
+15 - When are we arriving?  
+16 - Where are they staying?  
+17 - It's raining  
+18 - She's coming at six  
+19 - He's watching a film at the moment  
+20 - We're not sleeping  
+
+
+Task 2
+
+1 - Please be quiet. I'm working  
+2 - "Where's John?"  "He's in the kitchen. He's cooking"  
+3 - "You're standing on my foot." "Oh, I'm sorry"  
+4 - Look! Somebody's swimming in the river  
+5 - We're here on holiday. We're staying at the Central Hotel  
+6 - "Where's Ann?" "She's having a shower"  
+7 - They're building a new theatre in the city centre at the moment  
+8 - I'm going now. Goodbye.  
+
