@@ -9,6 +9,7 @@
 - [hw7 - Pronunciation](#pronunciation)
 - [hw8 - Adjectives -ing, -ed](#adjectives--ing--ed)
 - [hw9 - SURE, CH, WR, KN](#sure-ch-wr-kn)
+- [hw10 - Present Continuous](#present-continuous)
 
 ## Extraordinary jobs
 
@@ -676,7 +677,7 @@ Task 1
 11- You aren't running  
 12 - Why is he leaving?  
 13 - How am I traveling?  
-14 - It's not rainig  
+14 - It's not raining  
 15 - When are we arriving?  
 16 - Where are they staying?  
 17 - It's raining  
@@ -696,3 +697,163 @@ Task 2
 7 - They're building a new theatre in the city centre at the moment  
 8 - I'm going now. Goodbye.  
 
+
+## Present Continuous
+
+### Theory
+
+`PRESENT CONTINUOUS` - НЕПОСТОЯННЫЕ, ВРЕМЕННЫЕ ДЕЙСТВИЯ + ТОЧНЫЕ ПЛАНЫ НА БУДУЩЕЕ + РАЗДРАЖЕНИЕ  
+
+1. действие сейчас (продолжительное) - `now`, `right now`, `at the moment`  
+
+2. действие происходит не прямо сейчас, но в данный промежуток времени - `currently`, `presently`, `nowadays` = `these days`  
+
+3. действия, ограниченные по времени (непостоянные действия, происходят не всегда) - `currently`, `presently`, `nowadays`  
+
+> I work as a teacher. I am working as a teacher.  
+> I live in Moscow. I am living in London.  
+
+4. раздражение, злость - `always`, `all the time`, `constantly`, `never`  
+
+> He is always talking loudly.  
+> You are never listening to me.  
+> My neighbours are always building loudly.  
+
+5. нетипичное поведение - `BEING`  
+
+> He is rude. He is being rude.  
+> He does his hometask well. He is doing his hometask well.  
+> She hates rain, but now she’s walking in the rain.  
+> She wears white clothes / clothing. She is wearing white clothes.  
+
+6. процесс (все, что ты считаешь процессом), постепенное действие  
+
+> Population of the Earth is growing every year. 
+> My English is getting better. 
+> AI (Artificial Intelligence) is developing very fast.
+
+7. точные планы на ближайшее будущее 
+
+> I am moving to London in a week. 
+> I am waiting for my friend. 
+
+
+
+`BE GOING TO (+ глагол без окончаний)` - ПЛАНЫ НЕТОЧНЫЕ, БУДУЩЕЕ НЕ БЛИЖАЙШЕЕ  
+
+- собираться что-то делать, выражаем намерения
+
+> I am going to school.  
+> I am going to cook a dinner.  
+> I am going to move to London.  
+
+- что-то вот вот сейчас произойдет, на моих глазах  
+
+> The tree is going to fall. (оно шатается, вот вот упадет) 
+> The shelf is going to fall! 
+> The dog is going to bite me! The child is going to eat my cake! 
+
+- предположения о будущем (неважно далекое или близкое)  
+
+> She is going to be a rockstar.  
+> In 30 years I’m going to be a millionaire.  
+
+
+![ing rulles](/src/ing_rulles.png)
+
+
+### Vocabulary
+
+- `CONSONANT` - согласная  
+- `VOWEL` - гласная  
+- `SPELL` - заклинание  
+- `WEAR` - носить (одежду)  
+- `ARTIFICIAL` - искусство  
+- `SQUIRREL` [сквирэл] - белка  
+- `PIGEON` [пиджн] - голубь  
+- `FOUNTAIN` - фонтан  
+- `AUNT` - тетя  
+- `JOG` - бегать трусцой  
+- `LACES` [лэйзес] - шнурки  
+- `TIE` - галстук, завязывать  
+
+
+### Hometask
+
+[Oxford education](https://oxford-institute-education.com/wp-content/uploads/2022/04/Present-Progressive.pdf)
+
+Exercise 1,2,3, 4  
+
+
+### Solution
+
+Words  
+
+- `SNEEZE` - чихать  
+
+Exercise 1  
+
+Ex. - It is a beautiful day. The sun is shinning.  
+1 - My mother is busy now. She is making dinner.  
+2 - My father is in the garage. He fixing the car.  
+3 - The students are in the classroom. They are listenning to their teacher.  
+4 - My son is in his room woth his toys. He are playing.  
+5 - Ellie is in her bedroom. She is studying for her exam.  
+6 - Amira and Ali are at the party. They are dancing.  
+7 - You should take your umbrella. It is raining.  
+8 - Vasha is going to a wedding. She is wearing a beautiful dress.  
+9 - The floor is dirty. Mika is washing it.  
+10 - Sayid is at the supermarket. He is buying food.  
+11 - It is 12:00. The children are eating the lunch.  
+12 - Bianca has a bad cold. She is sneezing.  
+13 - The students are in the library. They are studying.  
+14 - My grandfather is asleep on the sofa. He is snoring.  
+
+
+Exersice 2  
+
+Ex. - The man is looking at his watch.  
+1 - The woman is buying a hot-dog.  
+2 - The driver is putting his package with products in the car.  
+3 - The little bird is singing.  
+4 - The squirrel is eating a nut.  
+5 - The pigeon is eating seeds.  
+6 - The old man in the bench is reading the newspapper.  
+7 - The girl near the fountain is reading.  
+8 - The girl is walking with her dog.  
+9 - The boy on the blanket for piknik is drinking juice
+10 - The human is driving the car.  
+
+
+Exersice 3  
+
+Ex. - Junko isn't wearing a blue dress. She is wearing a black dress.  
+1 - Mohammed is not studying mathematics. He is studying history.  
+2 - The boys aren't playing football. They are playing hockey.  
+3 - I'm not drinking coffee. I am drinking tea.  
+4 - She isn't writing a letter to her grandmother. She is writing for her aunt.  
+5 - We aren't driving a new car. We are driving a used car.  
+6 - I'm not eating fish for dinner. I am eating steak.  
+7 - She is not watching sport on TV. She is watching a film.  
+8 - The tourists aren't speaking Chinese. The are speaking Japanese.  
+9 - He aren't smoking a cigarette. He is smoking a pipe.  
+10 - She is not washing the windows. She is washing her clothes.  
+11 - They are not listening to classical music. The are listening to rock music.  
+12 - We are not going to Hawaii for our holiday. We are going to Mexico.  
+13 - It is not snowing inside the house. It is snowing outside.  
+14 - My daughter isn't riding a bicycle. She is riding a horse.  
+
+
+Exersice 4  
+
+Ex. - Are you jogging at the moment? *Yes, I am.*  
+1 - Is Mrs. Jackson typing up the report? *Yes, she is.*  
+2 - Are you reading Shakespeare right now? *No, I'm not.*  
+3 - Are they looking for a new car? *No they aren't.*  
+4 - Are you out shopping for my gift now? *No, I'm not.*  
+5 - Is your dog eating more food these days? *Yes, it is.*  
+6 - Is she preparing for her next class right now? *No, she is not.*  
+7 - Are the children playing? *Yes, they are.*  
+8 - Is Mario taking a test at the moment? *No, he isn't.*  
+9 - Is the teen looking at his phone? *Yes, he is.*  
+10 - Is your daughter learning to tie her shoe laces nowadays? *Yes, she is.*
