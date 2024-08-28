@@ -782,7 +782,7 @@ Task 2
 
 [Oxford education](https://oxford-institute-education.com/wp-content/uploads/2022/04/Present-Progressive.pdf)
 
-Exercise 1,2,3, 4  
+Exercise 1, 2, 3, 4  
 
 
 ### Solution
@@ -810,7 +810,7 @@ Ex. - It is a beautiful day. The sun is shinning.
 14 - My grandfather is asleep on the sofa. He is snoring.  
 
 
-Exersice 2  
+Exercise 2  
 
 Ex. - The man is looking at his watch.  
 1 - The woman is buying a hot-dog.  
@@ -818,14 +818,14 @@ Ex. - The man is looking at his watch.
 3 - The little bird is singing.  
 4 - The squirrel is eating a nut.  
 5 - The pigeon is eating seeds.  
-6 - The old man in the bench is reading the newspapper.  
+6 - The old man on the bench is reading the newspaper.  
 7 - The girl near the fountain is reading.  
 8 - The girl is walking with her dog.  
-9 - The boy on the blanket for piknik is drinking juice
+9 - The boy on the blanket for the picnic is drinking juice.  
 10 - The human is driving the car.  
 
 
-Exersice 3  
+Exercise 3  
 
 Ex. - Junko isn't wearing a blue dress. She is wearing a black dress.  
 1 - Mohammed is not studying mathematics. He is studying history.  
@@ -834,9 +834,9 @@ Ex. - Junko isn't wearing a blue dress. She is wearing a black dress.
 4 - She isn't writing a letter to her grandmother. She is writing for her aunt.  
 5 - We aren't driving a new car. We are driving a used car.  
 6 - I'm not eating fish for dinner. I am eating steak.  
-7 - She is not watching sport on TV. She is watching a film.  
-8 - The tourists aren't speaking Chinese. The are speaking Japanese.  
-9 - He aren't smoking a cigarette. He is smoking a pipe.  
+7 - She is not watching sports on TV. She is watching a film.  
+8 - The tourists aren't speaking Chinese. They are speaking Japanese.  
+9 - He isn't smoking a cigarette. He is smoking a pipe.  
 10 - She is not washing the windows. She is washing her clothes.  
 11 - They are not listening to classical music. The are listening to rock music.  
 12 - We are not going to Hawaii for our holiday. We are going to Mexico.  
@@ -844,7 +844,7 @@ Ex. - Junko isn't wearing a blue dress. She is wearing a black dress.
 14 - My daughter isn't riding a bicycle. She is riding a horse.  
 
 
-Exersice 4  
+Exercise 4  
 
 Ex. - Are you jogging at the moment? *Yes, I am.*  
 1 - Is Mrs. Jackson typing up the report? *Yes, she is.*  
