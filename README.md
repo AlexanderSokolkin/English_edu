@@ -793,18 +793,18 @@ Words
 
 Exercise 1  
 
-Ex. - It is a beautiful day. The sun is shinning.  
+Ex. - It is a beautiful day. The sun is shining.  
 1 - My mother is busy now. She is making dinner.  
-2 - My father is in the garage. He fixing the car.  
-3 - The students are in the classroom. They are listenning to their teacher.  
-4 - My son is in his room woth his toys. He are playing.  
+2 - My father is in the garage. He is fixing the car.  
+3 - The students are in the classroom. They are listening to their teacher.  
+4 - My son is in his room with his toys. He is playing.  
 5 - Ellie is in her bedroom. She is studying for her exam.  
 6 - Amira and Ali are at the party. They are dancing.  
 7 - You should take your umbrella. It is raining.  
 8 - Vasha is going to a wedding. She is wearing a beautiful dress.  
 9 - The floor is dirty. Mika is washing it.  
 10 - Sayid is at the supermarket. He is buying food.  
-11 - It is 12:00. The children are eating the lunch.  
+11 - It is 12:00. The children are eating lunch.  
 12 - Bianca has a bad cold. She is sneezing.  
 13 - The students are in the library. They are studying.  
 14 - My grandfather is asleep on the sofa. He is snoring.  
