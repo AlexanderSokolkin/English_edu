@@ -10,6 +10,7 @@
 - [hw8 - Adjectives -ing, -ed](#adjectives--ing--ed)
 - [hw9 - SURE, CH, WR, KN](#sure-ch-wr-kn)
 - [hw10 - Present Continuous](#present-continuous)
+- [hw11 - Present Continuous (part 2)](#present-continuous-part-2)
 
 ## Extraordinary jobs
 
@@ -857,3 +858,83 @@ Ex. - Are you jogging at the moment? *Yes, I am.*
 8 - Is Mario taking a test at the moment? *No, he isn't.*  
 9 - Is the teen looking at his phone? *Yes, he is.*  
 10 - Is your daughter learning to tie her shoe laces nowadays? *Yes, she is.*
+
+
+## Present Continuous (part 2)
+
+### Theory
+
+С некоторыми глаголами нельзя использовать время Present Continuous.  
+
+![Verbs list](/src/hw11_verbs_list.png)
+
+Так же существуют глаголы с несколькими значениями, от которых зависит возможность использования Present Continuous.  
+
+![Verbs table](/src/hw11_verbs_table.png)
+
+`FEEL` - в значении **чувствовать себя** можно ставить в Present Continuous (I'm feeling bad; I'm feeling weird). В остальных случаях нельзя.  
+
+Предлог to ставиться при вопросах *куда*, *кому* *чему*.  
+
+
+### Vocabulary
+
+- `NOTICE` - заметить  
+- `ZILION` - очень очень очень много  
+- `REALISE` - осознавать, реализовать  
+- `RECOGNISE` - узнать, распознать  
+- `SUPPOSE` - предполагать, предположить  
+- `BELONG TO` - принадлежать  
+- `FIT` - подходить, устраивать, быть годным  
+- `CONSIST OF` - состоять из  
+- `OBLIGATORY` - обязательный  
+- `DO WELL` - хорошо справиться  
+- `NITROGEN` - азот  
+- `MAKE UP MY/YOUR MIND` - принять решение, решиться  
+
+
+### Hometask
+
+Task 1  
+
+![Exercise 4.1](/src/hw11_hometask.png)
+
+Task 2  
+
+Написать 12 предложений по таблице.  
+
+
+### Solution
+
+
+Task 1  
+
+1 - Are you hungry? *Do you want* something to eat?  
+2 - Alan says he's 90 years old, but nobody believes him.  
+3 - She told me her name, but I don't remember it now.  
+4 - Don't put the dictionary away. I'm using it.  
+5 - Don't put the dictionary away. I need it.  
+6 - Air consists mainly of nitrogen and oxygen.  
+7 - Who is that man? What does he want?  
+8 - Who is that man? Why he's looking at us.  
+9 - Who is that man? Do you recognise him?  
+10 - I'm thinking of selling my car. Would you be interested in buying it?  
+11 - I can't make up my mind. What do you think I should do?  
+12 - Gary wasn't well earlier, but he seems OK now.  
+
+
+Task 2
+
+1.a - Today is a good day. I'm having a breakfast in cafe.  
+1.b - Do you have a sickness?  
+2.a - Are we seeing today?  
+2.b - Do you see my dog. It is lost.  
+3.a - He smelling flowers now.  
+3.b - I like fish steaks. It smells nice.  
+4.a - These chips tastes like real sushi.  
+4.b - Are you tasting my new meal?  
+5.a - I am thinking about donuts.  
+5.b - I think new Netflix serises aren't good.  
+6.a - I'm looking out of window to understand if the weather is good.  
+6.b - You look good today.  
+
