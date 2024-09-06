@@ -11,6 +11,7 @@
 - [hw9 - SURE, CH, WR, KN](#sure-ch-wr-kn)
 - [hw10 - Present Continuous](#present-continuous)
 - [hw11 - Present Continuous (part 2)](#present-continuous-part-2)
+- [hw12 - Comparative, Superlative](#comparative-superlative)
 
 ## Extraordinary jobs
 
@@ -916,7 +917,7 @@ Task 1
 5 - Don't put the dictionary away. I need it.  
 6 - Air consists mainly of nitrogen and oxygen.  
 7 - Who is that man? What does he want?  
-8 - Who is that man? Why he's looking at us.  
+8 - Who is that man? Why is he looking at us.  
 9 - Who is that man? Do you recognise him?  
 10 - I'm thinking of selling my car. Would you be interested in buying it?  
 11 - I can't make up my mind. What do you think I should do?  
@@ -937,4 +938,116 @@ Task 2
 5.b - I think new Netflix serises aren't good.  
 6.a - I'm looking out of window to understand if the weather is good.  
 6.b - You look good today.  
+
+
+
+## Comparative, Superlative
+
+
+### Theory
+
+IMPERATIVE - приказ, просьба, указание  
+
+Правиало повелительного наклонения:  
+
+**Утвердительное предложение** - инфинитив глагола  
+**Отрицательное предложение** - DON'T + инфинитив глагола  
+
+| ADJECTIVES | COMPARATIVE | SUPERLATIVE |
+| --- | --- | --- |
+| длинные слова (3+ слога), ...ful, ...ed | MORE ... THAN | THE MOST ... |
+| короткие слова (1-2 слога) | +ER ... THAN | THE +EST |
+
+> Much - используется в сравнительной степени с значении "намного" (musch more ...)  
+
+[Правила](https://skyeng.ru/articles/stepeni-sravneniya-prilagatelnyh-v-anglijskom-yazyke) (дополнительно):  
+
+- Сравнительная степень  
+    - с окончанием **-e** - добавляется **-r**  
+    - с окончанием из CVC - удвоение последней согласной + суффикс **-er**  
+    - с окончанием на **-y** - замена **y** на **i** + суффикс **-er**  
+- Превосходная степень
+    - с окончанием **-e** - добавляется **-st**  
+    - с окончанием из CVC - удвоение последней согласной + суффикс **-est**  
+    - с окончанием на **-y** - замена **y** на **i** + суффикс **-est**  
+
+
+Исключения:
+
+| good | better | the best |
+| bad | worse | the worst |
+| much, many | more | the most |
+| little | less | the least |
+| far | further / farther | the furthest / farthest |
+| old | elder | the eldest |
+
+### Vocabulary
+
+- `AT FIRST SIGHT` - на первый взгляд  
+- `SHY` - стеснительный  
+- `MODEST` - скромный  
+- `KILLJOY` - зануда, душнила  
+- `THICK` - толстый, густой  
+- `MESSY` - беспорядочный, хаотичный  
+- `ATTRACTIVE` - привлекательный, притягательный  
+- `USEFUL` - полезный, ценный  
+
+
+### Hometask
+
+Task 1
+
+![Adjectives table](/src/hw12_adjectives_table.png)
+
+
+### Solution
+
+
+| № | Adjective | Comparative | Superlative |
+| --- | --- | --- | --- |
+| Ex. | big | bigger | the biggest |
+| Ex. | important | more important | the most important |
+| 1 | tall | taller | the tallest |
+| 2 | cheap | cheaper | the cheapest |
+| 3 | expensive | more expensive | the most expensive |
+| 4 | good | better | the best |
+| 5 | lazy | lazier | the laziest |
+| 6 | pretty | prettier | the prettiest |
+| 7 | beautiful | more beautiful | the most beautiful |
+| 8 | difficult | more difficult | the most difficult |
+| 9 | boring | boringer | the boringest |
+| 10 | shy | shier | the shiest |
+| 11 | happy | happier | the happiest |
+| 12 | short | shorter | the shortest |
+| 13 | famouse | famouser | the famousest |
+| 14 | comfortable | more comfortable | the most comfortable |
+| 15 | ugly | uglier | the ugliest |
+| 16 | warm | warmer | the warmest |
+| 17 | long | longer | the longest |
+| 18 | intelligent | more intelligent | the most intelligent |
+| 19 | wide | wider | the widest |
+| 20 | thick | thicker | the thickest |
+| 21 | smart | smarter | the smartest |
+| 22 | far | farther | the farthest |
+| 23 | bad | worse | the worst |
+| 24 | fat | fatter | the fattest |
+| 25 | interesting | more interesting | the most interesting |
+| 26 | narrow | narrower | the narrowest |
+| 27 | safe | safer | the safest |
+| 28 | dangerous | more dangerous | the most dangerous |
+| 29 | messy | messier | the messiest |
+| 30 | handsome | handsomer | the handsomest |
+| 31 | attractive | more attractive | the most attractive |
+| 32 | delicious | more delicious | the most delicious |
+| 33 | useful | more useful | the most useful |
+| 34 | easy | easier | the easiest |
+| 35 | lucky | luckier | the luckiest |
+| 36 | quiet | quieter | the quietest |
+| 37 | noisy | noisier | the noisiest |
+| 38 | modern | moderner | the modernest |
+| 39 | patient | more patient | the most patient |
+| 40 | convenient | more convenient | the most convenient |
+| 41 | accurate | more accurate | the most accurate |
+
+
 
