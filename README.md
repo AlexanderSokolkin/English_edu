@@ -974,6 +974,7 @@ IMPERATIVE - приказ, просьба, указание
 
 Исключения:
 
+| --- | --- | --- |
 | good | better | the best |
 | bad | worse | the worst |
 | much, many | more | the most |
