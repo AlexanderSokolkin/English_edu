@@ -12,6 +12,8 @@
 - [hw10 - Present Continuous](#present-continuous)
 - [hw11 - Present Continuous (part 2)](#present-continuous-part-2)
 - [hw12 - Comparative, Superlative](#comparative-superlative)
+- [hw13 - AS ... AS, Weather](#as--as-weather)
+
 
 ## Extraordinary jobs
 
@@ -948,28 +950,29 @@ Task 2
 
 IMPERATIVE - приказ, просьба, указание  
 
-Правиало повелительного наклонения:  
+Правило повелительного наклонения:  
 
 **Утвердительное предложение** - инфинитив глагола  
 **Отрицательное предложение** - DON'T + инфинитив глагола  
 
 | ADJECTIVES | COMPARATIVE | SUPERLATIVE |
 | --- | --- | --- |
-| длинные слова (3+ слога), ...ful, ...ed | MORE ... THAN | THE MOST ... |
+| длинные слова (3+ слога), ...**ful**, ...**ed**, ...**ous**, ...**ing** | MORE ... THAN | THE MOST ... |
 | короткие слова (1-2 слога) | +ER ... THAN | THE +EST |
 
-> Much - используется в сравнительной степени с значении "намного" (musch more ...)  
+> Much - используется в сравнительной степени с значении "намного" (much more ...)  
 
 [Правила](https://skyeng.ru/articles/stepeni-sravneniya-prilagatelnyh-v-anglijskom-yazyke) (дополнительно):  
 
 - Сравнительная степень  
     - с окончанием **-e** - добавляется **-r**  
     - с окончанием из CVC - удвоение последней согласной + суффикс **-er**  
-    - с окончанием на **-y** - замена **y** на **i** + суффикс **-er**  
+    - с окончанием на С + **-y** - замена **y** на **i** + суффикс **-er**  
 - Превосходная степень
     - с окончанием **-e** - добавляется **-st**  
     - с окончанием из CVC - удвоение последней согласной + суффикс **-est**  
-    - с окончанием на **-y** - замена **y** на **i** + суффикс **-est**  
+    - с окончанием на С + **-y** - замена **y** на **i** + суффикс **-est**  
+
 
 
 Исключения:
@@ -1017,11 +1020,11 @@ Task 1
 | 6 | pretty | prettier | the prettiest |
 | 7 | beautiful | more beautiful | the most beautiful |
 | 8 | difficult | more difficult | the most difficult |
-| 9 | boring | boringer | the boringest |
+| 9 | boring | more boring | the most boring |
 | 10 | shy | shier | the shiest |
 | 11 | happy | happier | the happiest |
 | 12 | short | shorter | the shortest |
-| 13 | famouse | famouser | the famousest |
+| 13 | famous | more famous | the most famous |
 | 14 | comfortable | more comfortable | the most comfortable |
 | 15 | ugly | uglier | the ugliest |
 | 16 | warm | warmer | the warmest |
@@ -1046,10 +1049,97 @@ Task 1
 | 35 | lucky | luckier | the luckiest |
 | 36 | quiet | quieter | the quietest |
 | 37 | noisy | noisier | the noisiest |
-| 38 | modern | moderner | the modernest |
+| 38 | modern | more modern | the most modern |
 | 39 | patient | more patient | the most patient |
 | 40 | convenient | more convenient | the most convenient |
 | 41 | accurate | more accurate | the most accurate |
 
 
+
+## AS ... AS, Weather
+
+### Theory
+
+Чтобы сказать **я тоже** в английском есть несколько конструкций:  
+
+1. `Me too` - ответ на утвердительное предложение (универсальное)  
+2. `So am I` - ответ на утвердительное предложение, если в исходном предложении был глагол **to be**  
+3. `So do I` / `So did I` - ответ на утвердительное предложение (Present / Past)  
+4. `Neither am I` / `Neither do I` / `Neither did I` - ответы на отрицательное предложение  
+
+
+### Vocabulary
+
+- `ABROAD` - за граница  
+- `FALL / AUTUMN` - осень  
+- `INCH` - дюйм  
+- `AFFORD` - позволить (в плане денег)  
+- `SLEET` - слякоть  
+- `STORM` - шторм, гроза  
+- `LIGHTNING` - молния, вспышка  
+- `THUNDER` - гром  
+- `HAIL` - град  
+- `BLACK ICE` - гололед  
+- `BOW` - дуга  
+- `COOL` - прохладно  
+- `BOIL` - кипеть, варить  
+- `BOILING HOT` - ОЧЕНЬ жарко  
+- `STUFFY` - душно  
+- `FLAKE` - чешуйка  
+- `VORTEX` - вихрь  
+- `HURRICANE` - ураган  
+- `DROPLET` - капля  
+- `SKYSCRAPER` - небоскреб  
+
+
+### Hometask
+
+Task 1  
+
+![AS ... AS](/src/hw13_as_as.png)
+
+Task 2  
+
+Write 10 sentences about weather in the following cities:  
+
+1. Longyearbyen (Norway)  
+2. Madrid (Spain)  
+3. Yekaterinburg  
+4. Saint-Petersburg  
+5. Tokyo (Japan)  
+6. Casablanca (Morocco)  
+7. Rome (Italy)  
+8. Lima (Peru)  
+9. Washington DC (the USA)  
+10. Reykjavik (Island)  
+
+
+### Solution
+
+Task 1  
+
+11 - House isn't as tall as skyscraper  
+12 - France is as beautiful as Switzerland  
+13 - My old shoes aren't as comfortable as new shoes  
+14 - Grammar is as difficult as spelling  
+15 - Beethoven is as famous as Mozart  
+16 - Frozen yogurt is as fattening as ice cream  
+17 - Coke isn't as healthy as fruit juice  
+18 - My apartment is as convenient as yours  
+19 - Big cities are as safe as small towns  
+20 - New York hotels are as expensive as Tokyo hotels  
+
+
+Task 2  
+
+1 - It is cloudy and cool in Longyearbyen at Wednesday.  
+2 - It is sunny and hot in Madrid now.  
+3 - I feel it's warm and a little windy in Yekaterinburg today.  
+4 - It is always sleeting and windy in Saint-Petersburg, but it's warm and partly cloudy now.  
+5 - It's boiling hot and sunny in Tokyo.  
+6 - It's partly cloudy and stuffy in Casablanca today.  
+7 - It will be rainy, but warm in Rome tomorrow.  
+8 - It is clear sky and warm in Lima.  
+9 - It's really hot and partly cloudy in Washington DC all week.  
+10 - It's so-so cool and sleeting in Reykjavik.  
 
