@@ -13,6 +13,7 @@
 - [hw11 - Present Continuous (part 2)](#present-continuous-part-2)
 - [hw12 - Comparative, Superlative](#comparative-superlative)
 - [hw13 - AS ... AS, Weather](#as--as-weather)
+- [hw14 - Adverbs and Adjective](#adverbs-and-adjectives)
 
 
 ## Extraordinary jobs
@@ -1141,5 +1142,76 @@ Task 2
 7 - It will be rainy, but warm in Rome tomorrow.  
 8 - It is clear sky and warm in Lima.  
 9 - It's really hot and partly cloudy in Washington DC all week.  
-10 - It's so-so cool and sleeting in Reykjavik.  
+10 - It's a little cool and sleeting in Reykjavik.  
+
+
+## Adverbs and adjectives
+
+### Theory
+
+`a little bit` / `a bit` / `a little` - градация *совсем чуть-чуть* / *маленько* / *немного*  
+
+Использование частей речи:  
+
+- adjective + nouns  
+- adverb (LY) + verbs  
+
+
+ADJECTIVES WITH `-LY`:  
+
+- friendly  
+- lovely  
+- likely  
+- early  
+- silly  
+- lonely  
+- ugly  
+
+
+EXCEPTION ADVERBS:  
+
+- good - well  
+- fast - fast  
+- late - late (lately - в последнее время)  
+- hard - hard (hardly - едва ли, еле-еле)  
+- high - high (highly - весьма, очень)  
+- near - near (nearly - приблизительно, примерно)  
+- low - low [ЛОУ] (law [ЛО])  
+- far - far  
+
+Формирование сравнительной и превосходной степеней наречий:
+
+- Наречия, заканчивающиеся на **-ly** образуются путем добавления `more` / `the most`  
+- Все исключения, описанные выше, формируются, как прилагательные  
+
+
+### Vocabulary
+
+- `LIKELY` - вероятно, вероятный  
+- `VOCATION` - отпуск  
+- `SCRAPER` - скребсти  
+- `SILLY` - глупый  
+- `CHOIR` [кваэр] - хор  
+
+
+### Hometask
+
+Task 1  
+
+![Task 1](/src/hw14_adverbs_and_adjectives.png)
+
+
+### Solution
+
+1 - I drive more carefully than my husband  
+2 - Angela works harder than I do, but our secretary works the hardest of all of us  
+3 - Anita sing the most beautifully of all people in the choir  
+4 - Our teacher explains the lessons more clearly than your teacher  
+5 - Robert arrived at the meeting earlier than Francis  
+6 - Ken arrived the earliest of them all  
+7 - Teenagers usually drive faster than their parents  
+8 - My daughter cooks better than I do, but my husband cooks the best of all of us  
+9 - Rene speaks the most fluently of all the ESL students in the class  
+10 - The teacher arrived later than the students  
+
 
