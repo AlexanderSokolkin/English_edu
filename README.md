@@ -14,6 +14,7 @@
 - [hw12 - Comparative, Superlative](#comparative-superlative)
 - [hw13 - AS ... AS, Weather](#as--as-weather)
 - [hw14 - Adverbs and Adjective](#adverbs-and-adjectives)
+- [hw15 - Tourist hot spots](#tourist-hot-spots)
 
 
 ## Extraordinary jobs
@@ -30,7 +31,7 @@
 `SWAMP`                 - болото  
 `CANDIES / SWEETS`      - сладости  
 `BAKERY`                - выпечка  
-`DAIRY PRODUCTS` - молочная продукция  
+`DAIRY PRODUCTS`        - молочная продукция  
 `GLAD`                  - рад, радостный  
 `FIRSTLY / SECONDLY`    - во-первых, во-вторых  
 `USUAL / USUALLY`       - обычный / обычно  
@@ -1188,8 +1189,8 @@ EXCEPTION ADVERBS:
 ### Vocabulary
 
 - `LIKELY` - вероятно, вероятный  
-- `VOCATION` - отпуск  
-- `SCRAPER` - скребсти  
+- `VACATION` - отпуск  
+- `SCRAPE` - скребсти  
 - `SILLY` - глупый  
 - `CHOIR` [кваэр] - хор  
 
@@ -1214,4 +1215,91 @@ Task 1
 9 - Rene speaks the most fluently of all the ESL students in the class  
 10 - The teacher arrived later than the students  
 
+
+## Tourist hot spots
+
+### Theory
+
+`dumb` / `stupid` / `silly` - тупица / глупый / глупыш  
+`mother tongue` = `native language`  
+`pupil` / `school student` - зрачок / школьник  
+
+### Vocabulary
+
+- `HEEL` - каблук  
+- `SLIPPER` - тапки  
+- `SELDOM` - редко  
+- `FEATHER` [фиthэр] - перо  
+- `TRICKY` - хитрый  
+- `FIRM` [фэрм] - твердый, прочный  
+- `PLENTY OF` - множество  
+- `WHEEL` - колесо  
+- `RELY` - полагаться  
+
+### Hometask
+
+Task 1  
+
+- bicycle / motorcycle / car  
+- teacher / doctor / lawyer  
+- egg / pancake / donut  
+
+Task 2
+
+[Doc link](https://vk.com/doc496035345_680092908?hash=D6RdYkrQ4sknTBqJ52GX6cfHuqiC5VUTHpbM8LHxMnH&dl=9ciYuuQhu2nAFCxwqFwPAcH1UTuWuCIgRJbKaX1fSLw)
+
+2b, 2c, 3a  
+
+
+### Solution
+
+Task 1  
+
+- **bicycle / motorcycle / car**  
+    - A bicycle is slower than a motorcycle  
+    - A car is the haviest of any two-wheel transport  
+    - A motorcycle is as dangerous as a car  
+- **teacher / doctor / lawyer**  
+    - A school teacher is elder then students  
+    - A doctor is the most responsible job  
+    - A lawyer is as talkative as a teacher
+- **egg / pancake / donut**  
+    - An egg is heathy than a donut  
+    - A donut is the sweetest dessert  
+    - A puncake is as tasty as donut  
+
+Task 2
+
+**2b**:
+
+1 - A lot of Audrey's friends are from West Africa - **False**  
+2 - Audrey doesn’t live near the famous monuments - **True**  
+3 - Hong Kong is a very crowded city - **True**  
+4 - Han wants to move out of Hong Kong to a quieter place - **False**  
+5 - Mehtap's parents work in tourism - **True**  
+6 - There are often lots of tourists in Mehtap's neighbourhood - **False**  
+
+**2c**:  
+
+|  | Paris | Hong Kong | Antalya |
+| There are a lot of tall buildings |  | ✓ |  |
+| It's a small city | ✓ |  |  |
+| People come here for a beach holiday |  |  | ✓ |
+| Many of the monuments are in the city centre | ✓ |  |  |
+| A lot of people rely on tourism for their income |  |  | ✓ |
+| There's a market that's open at night |  | ✓ |  |
+
+**3a**:
+
+1 - Which cities or places in your country are popular with tourists?  
+
+- Moscow and Saint-Petersburg are the most popular cities in Russia. I feel actually Altai and Siberia are interesting and popular places as well.  
+
+2 - Have you ever visited a big city in another country?  
+
+- I have visited 3 big cities totally: Almaty, Seoul and Bangkok. In my opinion Seoul was the best city in my tourism experience
+
+3 - Which of the three cities in the article would you like to visit? Why?  
+
+- I would like to visit a Paris, because I never was in Europe. And of course I want to look at the Eiffel tower.  
 
