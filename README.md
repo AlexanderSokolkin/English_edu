@@ -1282,7 +1282,7 @@ Task 2
 **2c**:  
 
 |  | Paris | Hong Kong | Antalya |
-| --- | --- | --- | --- |
+| --- | :---: | :---: | :---: |
 | There are a lot of tall buildings |  | ✓ |  |
 | It's a small city | ✓ |  |  |
 | People come here for a beach holiday |  |  | ✓ |
