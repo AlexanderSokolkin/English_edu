@@ -1227,14 +1227,14 @@ Task 1
 ### Vocabulary
 
 - `HEEL` - каблук  
-- `SLIPPER` - тапки  
+- `SLIPPER` - тапок  
 - `SELDOM` - редко  
 - `FEATHER` [фиthэр] - перо  
 - `TRICKY` - хитрый  
 - `FIRM` [фэрм] - твердый, прочный  
 - `PLENTY OF` - множество  
 - `WHEEL` - колесо  
-- `RELY` - полагаться  
+- `RELY ON` - полагаться на  
 
 ### Hometask
 
@@ -1257,16 +1257,16 @@ Task 1
 
 - **bicycle / motorcycle / car**  
     - A bicycle is slower than a motorcycle  
-    - A car is the haviest of any two-wheel transport  
+    - A car is the heaviest of any two-wheel transport  
     - A motorcycle is as dangerous as a car  
 - **teacher / doctor / lawyer**  
-    - A school teacher is elder then students  
+    - A school teacher is elder than students  
     - A doctor is the most responsible job  
     - A lawyer is as talkative as a teacher
 - **egg / pancake / donut**  
-    - An egg is heathy than a donut  
+    - An egg is healthier than a donut  
     - A donut is the sweetest dessert  
-    - A puncake is as tasty as donut  
+    - A pancake is as tasty as donut  
 
 Task 2
 
@@ -1302,5 +1302,5 @@ Task 2
 
 3 - Which of the three cities in the article would you like to visit? Why?  
 
-- I would like to visit a Paris, because I never was in Europe. And of course I want to look at the Eiffel tower.  
+- I would like to visit Paris, because I never was in Europe. And of course I want to look at the Eiffel tower.  
 
