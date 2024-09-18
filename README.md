@@ -1380,10 +1380,10 @@ Task 1
 
 Task 2  
 
-1 - It is offered the **travel** programm to Spain. Departure from Rome at thirteenth of March for eleven days.  
-2 - I had an exciting **journey** at last vacation. I went to South Korea from Yekaterinburg at thenty-eighth of May for nine days.  
-3 - If you want to get an excellent two-three days nature **trip**, so you have to go at mounatains at tenth of July.  
-4 - A few weeks ago a group of space tourists started their voyage on the SpaceX's ship from the USA for 5 days.  
-5 - A great cruise on sea liner start at fourth of September until twenty-fifth of September from Denmark to the Spain.
-6 - When I was in Thailand it was many different tours in near islands. One of them was pritty cool. It was at second day of my traval.  
+1 - It is offered the **travel** programm to Spain. Departure from Rome on the thirteenth of March for eleven days.  
+2 - I had an exciting **journey** at last vacation. I went to South Korea from Yekaterinburg on the twenty-eighth of May for nine days.  
+3 - If you want to get an excellent two-three days nature **trip**, so you have to go at mountains on the tenth of July.  
+4 - A few weeks ago a group of space tourists started their **voyage** on the SpaceX's ship from the USA for 5 days.  
+5 - A great **cruise** on sea liner start at the fourth of September until the twenty-fifth of September from Denmark to the Spain.  
+6 - When I was in Thailand it was many different **tours** in near islands. One of them was pretty cool. It was on the second day of my travel.  
 
