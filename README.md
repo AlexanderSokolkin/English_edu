@@ -1355,7 +1355,7 @@ Task 1
 **1a**  
 
 | Cardinal numbers | Ordinal numbers |
-| *** | *** |
+| --- | --- |
 | one | first |
 | two | second |
 | three | third |
