@@ -15,6 +15,7 @@
 - [hw13 - AS ... AS, Weather](#as--as-weather)
 - [hw14 - Adverbs and Adjective](#adverbs-and-adjectives)
 - [hw15 - Tourist hot spots](#tourist-hot-spots)
+- [hw16 - Date and journey](#date-and-journey)
 
 
 ## Extraordinary jobs
@@ -1303,4 +1304,86 @@ Task 2
 3 - Which of the three cities in the article would you like to visit? Why?  
 
 - I would like to visit Paris, because I never was in Europe. And of course I want to look at the Eiffel tower.  
+
+
+## Date and journey
+
+### Theory
+
+9.98 - nine point ninety eight  
+9.5 - nine and a half  
+
+![NSWA](/src/hw16_nswe.png)
+
+Прилагательные:  
+- NORTHERN  
+- SOUTHERN  
+- WESTERN  
+- EASTERN  
+
+
+Путешествие:  
+- `journey` - длинная поездка (долго, далеко)  
+- `travel` - единоразовая поездка  
+- `trip` - короткая поездка (недолго, недалеко)  
+- `voyage` - путешествие по воде или в космос  
+- `cruise` - водная поездка с остановками  
+- `hitchhiking` - автостоп  
+- `tour` - тур  
+
+### Vocabulary
+
+- `CARDINAL` - количественный  
+- `ORDINAL` - порядковый  
+- `DEPARTURE` - отправление  
+
+### Hometask
+
+Task 1  
+
+![task list](/src/hw16_hometask.png)  
+
+Task 2  
+
+12 sentences: Destination (to) / Place of departure (from) / how long / date of departure (отъезд)
+
+
+### Solution
+
+Task 1  
+
+**1a**  
+
+| Cardinal numbers | Ordinal numbers |
+| *** | *** |
+| one | first |
+| two | second |
+| three | third |
+| four | fourth |
+| five | fifth |
+| six | sixth |
+| seven | seventh |
+| eight | eighth |
+| nine | ninth |
+| ten | tenth |
+
+
+**4a**  
+
+`31/01` - the thirty-first of January  
+`3/09` - the third of September  
+`25/12` - the twenty-fifth of December  
+`11/06` - the eleventh of June  
+`15/08` - the fifteenth of August  
+`22/04` - the twenty-second of April  
+
+
+Task 2  
+
+1 - It is offered the **travel** programm to Spain. Departure from Rome at thirteenth of March for eleven days.  
+2 - I had an exciting **journey** at last vacation. I went to South Korea from Yekaterinburg at thenty-eighth of May for nine days.  
+3 - If you want to get an excellent two-three days nature **trip**, so you have to go at mounatains at tenth of July.  
+4 - A few weeks ago a group of space tourists started their voyage on the SpaceX's ship from the USA for 5 days.  
+5 - A great cruise on sea liner start at fourth of September until twenty-fifth of September from Denmark to the Spain.
+6 - When I was in Thailand it was many different tours in near islands. One of them was pritty cool. It was at second day of my traval.  
 
