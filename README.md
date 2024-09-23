@@ -16,6 +16,7 @@
 - [hw14 - Adverbs and Adjective](#adverbs-and-adjectives)
 - [hw15 - Tourist hot spots](#tourist-hot-spots)
 - [hw16 - Date and journey](#date-and-journey)
+- [hw17 - Dates and AT, ON, IN](#dates-and-at-on-in)
 
 
 ## Extraordinary jobs
@@ -1386,4 +1387,93 @@ Task 2
 4 - A few weeks ago a group of space tourists started their **voyage** on the SpaceX's ship from the USA for 5 days.  
 5 - A great **cruise** on sea liner start at the fourth of September until the twenty-fifth of September from Denmark to the Spain.  
 6 - When I was in Thailand it was many different **tours** in near islands. One of them was pretty cool. It was on the second day of my travel.  
+
+
+
+## Dates and AT, ON, IN
+
+### Theory
+
+(UK) 31.01 => (USA) 01.31  
+
+the thirty-first of January => January thirty-first  
+
+YEARS  
+
+- 1984 - nineteen eighty-four  
+- 2000 - the year of 2 thousand  
+- 1000 - the year of 1 thousand  
+- 3000 - the year of 3 thousand  
+- 2100 - 21 hundred  
+- 1400 - 14 hundred  
+- 1700 - 17 hundred  
+- 2000-2019  
+    - two thousand and (числа от 1 до 19)  
+    - twenty 0 (оу) + цифра (от 1 до 9)  
+    - twenty + число от 10 до 19  
+
+
+Предлоги AT, ON, IN  
+
+![Предлоги AT, ON, IN](/src/hw17_dates.png)  
+
+Мероприятия - `AT`  
+
+
+### Vocabulary
+
+- `LABOUR` - труд  
+- `AUNT` - тетя  
+- `PREPOSITION` - предлог  
+- `EVE` - канун  
+- `ICE-SCATE` - коньки  
+- `BLOOM` - цветение  
+- `DEW` - роса  
+
+
+### Hometask
+
+Task 1  
+
+![hw17-task](/src/hw17_task.png)
+
+Task 2  
+
+10 examples for each preposition  
+
+
+### Solution
+
+Task 1  
+
+1 - The class begins at 8:30 am.  
+2 - The nex school year starts in September.  
+3 - I took swimming lessons in April 2015.  
+4 - She plays volleyball on Saturday.  
+5 - On December 31, my family celebrated New Year's Eve.  
+6 - His birthday is on Monday, June 8.  
+7 - In the winter, we go ice-scating.  
+8 - They watch TV at night.  
+9 - In 2010, my city held a big festival.  
+10 - My wife drinks coffee in the morning.  
+11 - We ate lunch at 12:15 pm.  
+12 - I like to go to the beach in July.  
+13 - They are getting married on Saturday, May 26, 2018.  
+14 - My brother has his first karate class on Wednasday.  
+15 - They like to read in the afternoon.  
+16 - Flowers bloom in the spring.  
+17 - The concert tickets go on sale tomorrow. On that day, people will line up for hours.  
+18 - My kids thought they heard Santa Claus on Christmas Eve at midnight.  
+19 - The meeting starts on Monday at 9:00 am.  
+20 - Call me at 5:00 on Thursday.  
+
+Task 2  
+
+| AT | ON | IN |
+| :--- | :--- | :--- |
+| Let's meet at 10:00 pm            | Kate is flying to Miami on Tuesday    | The weather will be warm in Summer    |
+| New Year becomes at midnight      | I bought him a gift on birthday       | I like to eat porige in the morning   |
+| Dew usually appears at dawn       | Sara will come to me on May, 21       | Will we talk in this week?            |
+| I will see you at 6 o'clock       | We are on holiday on February, 23     | We usually travel in May              |
+| Work always starts at 10:00 am    | Do you want to watch series on Monday | The house was built in 1980           |
 
