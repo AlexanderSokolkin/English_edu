@@ -1,0 +1,151 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.16">
+  <diagram name="Страница — 1" id="Zd0nWBeo1lKlek1J5CZ3">
+    <mxGraphModel dx="1687" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-2" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#e6d0de;strokeColor=#996185;flipH=1;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry y="13" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d0cee2;strokeColor=#56517e;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="27" y="140" as="sourcePoint" />
+            <mxPoint x="1347" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="647" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="267" y="220" as="sourcePoint" />
+            <mxPoint x="267" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="167" y="120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-8" value="&lt;span id=&quot;docs-internal-guid-b7f70ca1-7fff-4f66-bfb2-ad2543c08ef8&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;21.04.753&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;span id=&quot;docs-internal-guid-91d0a05a-7fff-724f-723d-8f2ad9f1bc10&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Foundation of Rome&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="12" y="35" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-10" value="&lt;font color=&quot;#000099&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;BC&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="202" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-12" value="&lt;font color=&quot;#000099&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;AD&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="274.5" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="172" y="125" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="367" y="120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="372" y="125" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-16" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#ffcd28;strokeColor=#d79b00;flipH=0;flipV=0;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="372" y="10" width="205" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-17" value="&lt;span id=&quot;docs-internal-guid-b7f70ca1-7fff-4f66-bfb2-ad2543c08ef8&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;1088&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;span id=&quot;docs-internal-guid-ba79d4e6-7fff-1e68-3744-890be0bf4cc4&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;The First University Established &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve;&quot;&gt;(at Bologna)&lt;/span&gt;&lt;span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="389.5" y="27.5" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="487" y="120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="492" y="125" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-20" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#d5e8d4;strokeColor=#82b366;flipH=1;flipV=1;gradientColor=#97d077;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="317" y="160" width="205" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-21" value="&lt;span id=&quot;docs-internal-guid-1b411502-7fff-16f8-144b-31af688c19a9&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;1174&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span id=&quot;docs-internal-guid-644d025c-7fff-3558-9f03-c172be03cab1&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Foundation of Moscow&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="334.5" y="200" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="767" y="120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-23" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="772" y="125" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-24" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#e6d0de;strokeColor=#996185;flipH=1;flipV=0;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="597" y="10" width="205" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-25" value="&lt;span id=&quot;docs-internal-guid-0024b674-7fff-8ef3-af29-fcc99d75f01c&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;07.03.1876&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span id=&quot;docs-internal-guid-3ff2a0e1-7fff-6d8f-9701-d413e15975b6&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Alexander Graham Bell Patents the Telephone&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="614.5" y="27.5" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="847" y="120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="852" y="125" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-28" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#dae8fc;strokeColor=#6c8ebf;flipH=1;flipV=1;gradientColor=#7ea6e0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="677" y="160" width="205" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-29" value="&lt;span id=&quot;docs-internal-guid-b996ef95-7fff-af68-0263-2d592b139016&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;28.07.1914&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span id=&quot;docs-internal-guid-6607dce1-7fff-930b-4b4e-965db58c2593&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;The beginning of WW1&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="694.5" y="200" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-30" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="927" y="120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-31" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="932" y="125" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-32" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#ffcccc;strokeColor=#36393d;flipH=1;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="837" y="10" width="115" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-33" value="&lt;span id=&quot;docs-internal-guid-682ab63e-7fff-a4cd-7900-dbcd183be8df&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;24.10.1929&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span id=&quot;docs-internal-guid-3e6e458d-7fff-c164-f695-8acc5140c854&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;The great Depression&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="842" y="27.5" width="105" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-34" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1007" y="120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-35" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="1012" y="125" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-36" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#b0e3e6;strokeColor=#0e8088;flipH=1;flipV=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="897" y="160" width="137.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-37" value="&lt;span id=&quot;docs-internal-guid-a12a9c7b-7fff-8650-084c-755b20da7c61&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;1989&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span id=&quot;docs-internal-guid-48cbc542-7fff-a95c-11e1-be0a4e2d6c5d&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Invention of Internet&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="922" y="190" width="87.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1047" y="120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-39" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1052" y="125" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-40" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#cdeb8b;strokeColor=#36393d;flipH=1;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="962" y="10" width="115" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-41" value="&lt;span id=&quot;docs-internal-guid-6dfe9dac-7fff-6758-d3b0-903328646c02&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;09.11.1989&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span id=&quot;docs-internal-guid-64e566d7-7fff-4996-99ce-2d257c9e9728&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;The fall of Berlin Wall&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="967" y="27.5" width="105" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-42" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1167" y="120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-43" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CCCCFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1172" y="125" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-44" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#CCCCFF;strokeColor=#000000;flipH=1;flipV=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1057" y="160" width="137.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-45" value="&lt;span id=&quot;docs-internal-guid-3d209644-7fff-df3c-3e30-2df11c544471&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;23.05.1998&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span id=&quot;docs-internal-guid-48cbc542-7fff-a95c-11e1-be0a4e2d6c5d&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;My birthday&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1082" y="190" width="87.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1247" y="120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-47" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1252" y="125" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-48" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#ffcc99;strokeColor=#36393d;flipH=1;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="1157" y="10" width="115" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6Lg_CpakdJ4ZJU5obE0T-49" value="&lt;span id=&quot;docs-internal-guid-571cf773-7fff-c2ec-14cb-1ca6bd51b47d&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;11.09.2001&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span id=&quot;docs-internal-guid-64e566d7-7fff-4996-99ce-2d257c9e9728&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;September 11 attacks&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1162" y="27.5" width="105" height="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

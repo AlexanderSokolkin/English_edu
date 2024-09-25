@@ -17,6 +17,7 @@
 - [hw15 - Tourist hot spots](#tourist-hot-spots)
 - [hw16 - Date and journey](#date-and-journey)
 - [hw17 - Dates and AT, ON, IN](#dates-and-at-on-in)
+- [hw18 - For, During, While](#for-during-while)
 
 
 ## Extraordinary jobs
@@ -1459,7 +1460,7 @@ Task 1
 11 - We ate lunch at 12:15 pm.  
 12 - I like to go to the beach in July.  
 13 - They are getting married on Saturday, May 26, 2018.  
-14 - My brother has his first karate class on Wednasday.  
+14 - My brother has his first karate class on Wednesday.  
 15 - They like to read in the afternoon.  
 16 - Flowers bloom in the spring.  
 17 - The concert tickets go on sale tomorrow. On that day, people will line up for hours.  
@@ -1471,9 +1472,51 @@ Task 2
 
 | AT | ON | IN |
 | :--- | :--- | :--- |
-| Let's meet at 10:00 pm            | Kate is flying to Miami on Tuesday    | The weather will be warm in Summer    |
-| New Year becomes at midnight      | I bought him a gift on birthday       | I like to eat porige in the morning   |
-| Dew usually appears at dawn       | Sara will come to me on May, 21       | Will we talk in this week?            |
+| Let's meet at 10:00 pm            | Kate is flying to Miami on Tuesday    | The weather will be warm in summer    |
+| New Year becomes at midnight      | I bought him a gift on birthday       | I like to eat porridge in the morning |
+| Dew usually appears at dawn       | Sarah will come to me on May, 21      | Will we talk in this week?            |
 | I will see you at 6 o'clock       | We are on holiday on February, 23     | We usually travel in May              |
 | Work always starts at 10:00 am    | Do you want to watch series on Monday | The house was built in 1980           |
+
+
+## For, During, While
+
+### Theory
+
+Для слов `NEXT` / `THIS (THESE)` / `THAT (THOSE)` / `LAST` - не нужен предлог AT, ON, IT  
+
+`For`, `During` - в течение  
+
+| FOR (как долго?) | DURING (когда?) | WHILE - пока (параллельные действия) |
+| --- | --- | --- |
+| I live in Moscow for 3 years | During a plane flight I eat 3 times | While i'm reading a book, my mom is cooking |
+| I work as a programmer for 36 months | I listen attentively during the lesson | I'm learning Eng, while you’re doing nothing |
+
+**BC** - befor Christ (до н.э.)  
+**AD** - anno domini (н.э.)  
+
+### Vocabulary
+
+- `RUBBLE` - глыба, булыжник, большой камень  
+- `STRIKE` - удар, забастовка  
+- `ACCIDENT` - авария, несчастный случай  
+- `FELLOW` - товарищ, приятель, брат  
+- `TO LAST` - длиться  
+- `LEAST` - по крайней мере  
+- `CIGAR` - сигарета, заболевание от курения  
+- `DISCOUNT` - скидка  
+- `DROWSE` - сонливость  
+- `ABSENT / PRESENT` - отсутствующий / присутствующий  
+- `CIVILIAN` - гражданин  
+- `THEN` - тогда, затем  
+
+### Hometask
+
+Task 1
+
+Create the timeline with dates  
+
+### Solution
+
+![hw18 timeline](/src/date_timeline.png)
 
