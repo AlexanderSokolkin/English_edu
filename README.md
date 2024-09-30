@@ -18,7 +18,7 @@
 - [hw16 - Date and journey](#date-and-journey)
 - [hw17 - Dates and AT, ON, IN](#dates-and-at-on-in)
 - [hw18 - For, During, While](#for-during-while)
-
+- [hw19 - Articles](#articles)
 
 ## Extraordinary jobs
 
@@ -186,7 +186,7 @@ Would rather task:
 `MEAL`                          - блюдо, прием пищи  
 `STINGY`        [стинжи]        - скупой  
 `SHAME`                         - позор, жаль  
-`CAN'T HELP глагол + ING`       - не могу перестать что-то делать
+`CAN'T HELP глагол + ING`       - не могу перестать что-то делать  
 `UNBEARABLE`                    - невыносимый  
 `EXCITING`                      - захватывающий  
 `POLITE`        [полайт]        - вежливый  
@@ -737,14 +737,14 @@ Task 2
 
 6. процесс (все, что ты считаешь процессом), постепенное действие  
 
-> Population of the Earth is growing every year. 
-> My English is getting better. 
-> AI (Artificial Intelligence) is developing very fast.
+> Population of the Earth is growing every year.  
+> My English is getting better.  
+> AI (Artificial Intelligence) is developing very fast.  
 
 7. точные планы на ближайшее будущее 
 
-> I am moving to London in a week. 
-> I am waiting for my friend. 
+> I am moving to London in a week.  
+> I am waiting for my friend.  
 
 
 
@@ -758,9 +758,9 @@ Task 2
 
 - что-то вот вот сейчас произойдет, на моих глазах  
 
-> The tree is going to fall. (оно шатается, вот вот упадет) 
-> The shelf is going to fall! 
-> The dog is going to bite me! The child is going to eat my cake! 
+> The tree is going to fall. (оно шатается, вот вот упадет)  
+> The shelf is going to fall!  
+> The dog is going to bite me! The child is going to eat my cake!  
 
 - предположения о будущем (неважно далекое или близкое)  
 
@@ -882,7 +882,7 @@ Ex. - Are you jogging at the moment? *Yes, I am.*
 
 `FEEL` - в значении **чувствовать себя** можно ставить в Present Continuous (I'm feeling bad; I'm feeling weird). В остальных случаях нельзя.  
 
-Предлог to ставиться при вопросах *куда*, *кому* *чему*.  
+Предлог **to** ставиться при вопросах *куда*, *кому*, *чему*.  
 
 
 ### Vocabulary
@@ -1424,7 +1424,6 @@ YEARS
 ### Vocabulary
 
 - `LABOUR` - труд  
-- `AUNT` - тетя  
 - `PREPOSITION` - предлог  
 - `EVE` - канун  
 - `ICE-SCATE` - коньки  
@@ -1519,4 +1518,53 @@ Create the timeline with dates
 ### Solution
 
 ![hw18 timeline](/src/date_timeline.png)
+
+
+## Articles
+
+### Theory
+
+`TIME`  
+- раз (случай) - исчисляемое слово  
+- время - неисчисляемое слово, НО `hard times` / `have a …(притягательное) time`  
+
+
+ABBREVIATIONS as names (названия)  
+
+- The UK - аббревиатура читается по буквам => THE  
+- UNESCO - аббревиатура читается как слово => zero article  
+
+Имена людей и названия городов и стран БЕЗ АРТИКЛЯ (но, если страна - аббревиатура, то ставится the)  
+
+
+### Vocabulary
+
+- `SOUR` - кислый  
+- `BITTER` - горький  
+- `EMBANKMET` - набережная  
+- `ENROLL` - поступать, начинать ходить  
+
+### Hometask
+
+Task 1  
+
+3 texts: hometown, trip, closest people.  
+
+### Solution
+
+*HOMETOWN*  
+
+I live in Yekaterinburg. It's not too big. It has the nice embankment and green parks. There is a lot of historical monuments and wall painting. It is really warm and sunny summer but cold and cloudy winter in the town. And I think the main problem of Yekaterinburg is too many gray colors everythere.  
+
+
+*TRIP*
+
+I feel everyone who somewhen has good experience of nature trip to mountains or river rafting never forget it. Once upon a time I had a little trip to a water spring. 2 friends and I were full of optimism and adventure feelings. But it vanished after 15 km our walking with heavy bags. We were too exhausted to continue and set up a camp. Unfortunately a harvest bug has bitten one of us and we returned to home next morning.  
+
+
+*CLOSEST PEOPLE*  
+
+I enrolled at URFU after school. I had no friends there and felled alone. Fortunately I found cool and kind guys at the group. We always helped each other, seeked our first work together, went through all curriculum. We are still communicate and play boardgames on weekends.  
+
+
 
