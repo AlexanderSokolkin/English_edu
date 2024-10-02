@@ -19,6 +19,7 @@
 - [hw17 - Dates and AT, ON, IN](#dates-and-at-on-in)
 - [hw18 - For, During, While](#for-during-while)
 - [hw19 - Articles](#articles)
+- [hw20 - Place prepositions AT, ON, IN](#place-prepositions-at-on-in)
 
 ## Extraordinary jobs
 
@@ -1559,12 +1560,107 @@ I live in Yekaterinburg. It's not too big. It has the nice embankment and green 
 
 *TRIP*
 
-I feel everyone who somewhen has good experience of nature trip to mountains or river rafting never forget it. Once upon a time I had a little trip to a water spring. 2 friends and I were full of optimism and adventure feelings. But it vanished after 15 km our walking with heavy bags. We were too exhausted to continue and set up a camp. Unfortunately a harvest bug has bitten one of us and we returned to home next morning.  
+I feel everyone who somewhen has good experience of nature trip to mountains or river rafting never forget it. Once upon a time I had a little trip to a water spring. 2 friends and I were full of optimism and adventure feelings. But it vanished after 15 km our walking with heavy bags. We were too exhausted to continue and set up a camp. Unfortunately a harvest bug had bitten one of us and we returned to home next morning.  
 
 
 *CLOSEST PEOPLE*  
 
-I enrolled at URFU after school. I had no friends there and felled alone. Fortunately I found cool and kind guys at the group. We always helped each other, seeked our first work together, went through all curriculum. We are still communicate and play boardgames on weekends.  
+I enrolled at URFU after school. I had no friends there and felt alone. Fortunately I found cool and kind guys at the group. We always helped each other, seeked our first work together, went through all curriculum. We still communicate and play boardgames on weekends.  
 
 
+## Place prepositions AT, ON, IN
+
+### Theory
+
+![at_on_in](/src/hw20_at_in_on.png)
+
+IN the picture, IN the photo  
+AT school, uni, work  
+
+### Vocabulary
+
+- `JAR` - банка  
+- `CEILING` - потолок  
+- `HANG` - вешать, висеть  
+- `LACK` - недостаток  
+- `SPREE` - пьянка, гулянка  
+- `CLIMB` - взбираться  
+- `SURFACE` - поверхность  
+- `EXACT` - точный  
+- `ATTACH` - прикреплять  
+
+### Hometask
+
+Task 1  
+
+[Drepositions of place dock](/src/hw20_prepositions_of_place.pdf)
+
+Exercises 4, 5, 6  
+
+Task 2  
+
+Look trough Yes/No [Doc](/src/hw20_yes_no.pdf)
+
+### Solution
+
+Task 1  
+
+Ex.4  
+
+1 - There is a lot of trash in the bin.  
+2 - I put a new painting on my bedroom wall.  
+3 - The car is waiting at the traffic lights.  
+4 - Can you see that man in the balcony.  
+5 - My best friend lives in London.  
+6 - I think there is somebody at the entrance.  
+7 - Don't sit on the floor.  
+9 - There is a park at the end of my street.  
+10 - I have two mirrors on the wall in my bathroom.  
+11 - I think that Manchester is the best city in England.  
+12 - What do you have in your bag?
+
+Ex.5  
+
+Dialogue 1  
+
+**Billy**: Where is Johnny?  
+**Jen**: He is *at* the library.  
+**Billy**: Which library? There are a few *in* this town.  
+**Jen**: The library *at* the end of this road.  
+**Billy**: Great. We're meeting *at* the entrance of the library then we're going shopping.  
+**Jen**: Sounds great, have fun!  
+
+Dialogue 2  
+
+**James**: What is that *on* the ceiling?  
+**Kelly**: I think it is a spider!  
+**James**: Oh no! Let's catch it and put it *in* a jar.  
+**Kelly**: Where is the jar?  
+**James**: There is a jar *in* the kitchen.  
+**Kelly**: Here it is! It was *on* the shelf *in* the cupboard.  
+
+Dialogue 3  
+
+**Ian**: Does Jane live *in* Manchester?  
+**Sarah**: She lives *at* the city centre with her parents.  
+**Ian**: Does she live near the shopping centre?  
+**Sarah**: Yes, she lives *in* the big apartment building near the shopping centre.  
+**Ian**: That makes sense because I always see her *at* the bus stop nearby.  
+**Sarah**: I would like to live *at* that area, it is so nice!  
+
+
+Ex.6  
+
+1 - I am *in* my bedroom.  
+2 - The book is *on* the table.  
+3 - The cat is sitting *on* the sofa.  
+4 - The party is *in* Lohn's house.  
+5 - The restaurant is *at* the city centre.  
+6 - The painting is hanging *on* the wall.  
+7 - The students are *in* the classroom.  
+8 - The picture frame is *on* the shelf.  
+9 - The ball is *on* the field.  
+10 - I am waiting for you *at* the bus stop.  
+11 - The computer is *on* the desk.  
+12 - The conference is taking place *at* the convention centre.  
 
