@@ -1599,7 +1599,7 @@ Exercises 4, 5, 6
 
 Task 2  
 
-Look trough Yes/No [Doc](/src/hw20_yes_no.pdf)
+Look through Yes/No [Doc](/src/hw20_yes_no.pdf)
 
 ### Solution
 
